@@ -1,6 +1,6 @@
 {
     "posts": [
-    { "v": "car", "name": "subhojit" },
-    { "v": "lambourgini", "name": "saheli" }
+    { "vechile": "car", "ownerName": "subhojit", "details": "Demmy details for Subhojit" },
+    { "vechile": "lambourgini", "ownerName": "saheli", "details": "Demmy details for Saheli" }
 ]
 }
