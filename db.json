@@ -1,6 +1,2875 @@
 {
-    "posts": [
-    { "vechile": "car", "ownerName": "subhojit", "details": "Demmy details for Subhojit" },
-    { "vechile": "lambourgini", "ownerName": "saheli", "details": "Demmy details for Saheli" }
-]
+    "success": true,
+    "message": "",
+    "data": [
+        {
+            "_id": "20201202",
+            "WBS": [
+                {
+                    "WBS1": "CC2",
+                    "WBS2": "1",
+                    "STRCT": "SLAB",
+                    "SalesOrder": [
+                        {
+                            "Quantity": 19.373,
+                            "LoadNumber": "2011307033",
+                            "PONumber": "PDDCC2CGW319X",
+                            "Product": "CCB",
+                            "SalesOrderID": "1031282273",
+                            "Transportation": "TR40/24",
+                            "Unit": "MT",
+                            "DeliverStatus": "D"
+                        }
+                    ]
+                },
+                {
+                    "WBS1": "CC1",
+                    "WBS2": "1",
+                    "STRCT": "BEAM",
+                    "SalesOrder": [
+                        {
+                            "Quantity": 13.626,
+                            "LoadNumber": "2012028381",
+                            "PONumber": "PDDCC1ST281",
+                            "Product": "CAB",
+                            "SalesOrderID": "1031282145",
+                            "Transportation": "TR40/24",
+                            "Unit": "MT",
+                            "DeliverStatus": "D"
+                        },
+                        {
+                            "Quantity": 10.327,
+                            "LoadNumber": "2012028388",
+                            "PONumber": "PDDCC1ST282",
+                            "Product": "CAB",
+                            "SalesOrderID": "1031282146",
+                            "Transportation": "TR40/24",
+                            "Unit": "MT",
+                            "DeliverStatus": "D"
+                        }
+                    ]
+                },
+                {
+                    "WBS1": "STN",
+                    "WBS2": "1",
+                    "STRCT": "WALL",
+                    "SalesOrder": [
+                        {
+                            "Quantity": 3.04,
+                            "LoadNumber": "2012028400",
+                            "PONumber": "PDDSTNCGW288A",
+                            "Product": "CAB",
+                            "SalesOrderID": "1031284277",
+                            "Transportation": "HC1",
+                            "Unit": "MT",
+                            "DeliverStatus": "D"
+                        }
+                    ]
+                },
+                {
+                    "WBS1": "CC3",
+                    "WBS2": "1",
+                    "STRCT": "SLAB",
+                    "SalesOrder": [
+                        {
+                            "Quantity": 1.076,
+                            "LoadNumber": "2012028387",
+                            "PONumber": "PDDCC3TT051B",
+                            "Product": "CAB",
+                            "SalesOrderID": "1031283082",
+                            "Transportation": "TR40/24",
+                            "Unit": "MT",
+                            "DeliverStatus": "D"
+                        },
+                        {
+                            "Quantity": 0.308,
+                            "LoadNumber": "2012028387",
+                            "PONumber": "PDDCC3WH003",
+                            "Product": "CAB",
+                            "SalesOrderID": "1031283774",
+                            "Transportation": "TR40/24",
+                            "Unit": "MT",
+                            "DeliverStatus": "D"
+                        },
+                        {
+                            "Quantity": 21.323,
+                            "LoadNumber": "2012028387",
+                            "PONumber": "PDDCC3TT052",
+                            "Product": "CAB",
+                            "SalesOrderID": "1031283097",
+                            "Transportation": "TR40/24",
+                            "Unit": "MT",
+                            "DeliverStatus": "D"
+                        }
+                    ]
+                },
+                {
+                    "WBS1": "CC2",
+                    "WBS2": "1",
+                    "STRCT": "BEAM",
+                    "SalesOrder": [
+                        {
+                            "Quantity": 12.465,
+                            "LoadNumber": "2012027982",
+                            "PONumber": "PDDCC2CGW327X",
+                            "Product": "CCB",
+                            "SalesOrderID": "1031282904",
+                            "Transportation": "TR40/24",
+                            "Unit": "MT",
+                            "DeliverStatus": "D"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "_id": "20201118",
+            "WBS": [
+                {
+                    "WBS1": "STN",
+                    "WBS2": "1",
+                    "STRCT": "SLAB",
+                    "SalesOrder": [
+                        {
+                            "Quantity": 0.538,
+                            "LoadNumber": "2011184720",
+                            "PONumber": "PDDSTNCGW334",
+                            "Product": "CAB",
+                            "SalesOrderID": "1031279566",
+                            "Transportation": "HC1",
+                            "Unit": "MT",
+                            "DeliverStatus": "D"
+                        }
+                    ]
+                },
+                {
+                    "WBS1": "STN",
+                    "WBS2": "1",
+                    "STRCT": "COLUMN",
+                    "SalesOrder": [
+                        {
+                            "Quantity": 0.326,
+                            "LoadNumber": "2011184720",
+                            "PONumber": "PDDSTNCGW332",
+                            "Product": "CAB",
+                            "SalesOrderID": "1031279391",
+                            "Transportation": "HC1",
+                            "Unit": "MT",
+                            "DeliverStatus": "D"
+                        }
+                    ]
+                },
+                {
+                    "WBS1": "CC1",
+                    "WBS2": "1",
+                    "STRCT": "SLAB",
+                    "SalesOrder": [
+                        {
+                            "Quantity": 2.044,
+                            "LoadNumber": "2011184653",
+                            "PONumber": "PDDCC1ST251",
+                            "Product": "CAB",
+                            "SalesOrderID": "1031279381",
+                            "Transportation": "TR40/24",
+                            "Unit": "MT",
+                            "DeliverStatus": "D"
+                        },
+                        {
+                            "Quantity": 14.672,
+                            "LoadNumber": "2011184653",
+                            "PONumber": "PDDCC1ST250",
+                            "Product": "CAB",
+                            "SalesOrderID": "1031279384",
+                            "Transportation": "TR40/24",
+                            "Unit": "MT",
+                            "DeliverStatus": "D"
+                        }
+                    ]
+                },
+                {
+                    "WBS1": " ",
+                    "WBS2": " ",
+                    "STRCT": " ",
+                    "SalesOrder": [
+                        {
+                            "Quantity": 2,
+                            "LoadNumber": "2011184653",
+                            "PONumber": "PDDCC1ST253B",
+                            "Product": "BARDBX",
+                            "SalesOrderID": "1031278928",
+                            "Transportation": "TR40/24",
+                            "Unit": "MT",
+                            "DeliverStatus": "D"
+                        },
+                        {
+                            "Quantity": 2,
+                            "LoadNumber": "2011123750",
+                            "PONumber": "PDDSTNCGW333",
+                            "Product": "BARDBX",
+                            "SalesOrderID": "1031279343",
+                            "Transportation": "TR40/36",
+                            "Unit": "MT",
+                            "DeliverStatus": "D"
+                        },
+                        {
+                            "Quantity": 26,
+                            "LoadNumber": "2011123750",
+                            "PONumber": "PDDSTNCGW278",
+                            "Product": "BARDBX",
+                            "SalesOrderID": "1031274776",
+                            "Transportation": "TR40/36",
+                            "Unit": "MT",
+                            "DeliverStatus": "D"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "_id": "20201206",
+            "WBS": [
+                {
+                    "WBS1": "CC1",
+                    "WBS2": "1",
+                    "STRCT": "BEAM",
+                    "SalesOrder": [
+                        {
+                            "Quantity": 22.623,
+                            "LoadNumber": "2012058793",
+                            "PONumber": "PDDCC1ST284",
+                            "Product": "CAB",
+                            "SalesOrderID": "1031283996",
+                            "Transportation": "TR40/24",
+                            "Unit": "MT",
+                            "DeliverStatus": "D"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "_id": "20201203",
+            "WBS": [
+                {
+                    "WBS1": " ",
+                    "WBS2": " ",
+                    "STRCT": " ",
+                    "SalesOrder": [
+                        {
+                            "Quantity": 2,
+                            "LoadNumber": "2012038501",
+                            "PONumber": "PDDCC3TT054",
+                            "Product": "BARDBX",
+                            "SalesOrderID": "1031284404",
+                            "Transportation": "TR40/36",
+                            "Unit": "MT",
+                            "DeliverStatus": "D"
+                        }
+                    ]
+                },
+                {
+                    "WBS1": "CC1",
+                    "WBS2": "1",
+                    "STRCT": "BEAM",
+                    "SalesOrder": [
+                        {
+                            "Quantity": 15.559000000000001,
+                            "LoadNumber": "2012038501",
+                            "PONumber": "PDDCC1ST279",
+                            "Product": "CAB",
+                            "SalesOrderID": "1031282580",
+                            "Transportation": "TR40/36",
+                            "Unit": "MT",
+                            "DeliverStatus": "D"
+                        },
+                        {
+                            "Quantity": 5.931,
+                            "LoadNumber": "2012038501",
+                            "PONumber": "PDDCC1ST290",
+                            "Product": "CAB",
+                            "SalesOrderID": "1031282928",
+                            "Transportation": "TR40/36",
+                            "Unit": "MT",
+                            "DeliverStatus": "D"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "_id": "20201204",
+            "WBS": [
+                {
+                    "WBS1": "CC2",
+                    "WBS2": "1",
+                    "STRCT": "BEAM",
+                    "SalesOrder": [
+                        {
+                            "Quantity": 9.885,
+                            "LoadNumber": "2012038551",
+                            "PONumber": "PDDCC2CGW328",
+                            "Product": "CAB",
+                            "SalesOrderID": "1031282893",
+                            "Transportation": "TR40/24",
+                            "Unit": "MT",
+                            "DeliverStatus": "D"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "_id": "20201211",
+            "WBS": [
+                {
+                    "WBS1": "CC1",
+                    "WBS2": "1",
+                    "STRCT": "BEAM",
+                    "SalesOrder": [
+                        {
+                            "Quantity": 18.649,
+                            "LoadNumber": "2012110107",
+                            "PONumber": "PDDCC1ST286",
+                            "Product": "CAB",
+                            "SalesOrderID": "1031285671",
+                            "Transportation": "TR40/24",
+                            "Unit": "MT",
+                            "DeliverStatus": "D"
+                        },
+                        {
+                            "Quantity": 1.117,
+                            "LoadNumber": "2012110107",
+                            "PONumber": "PDDCC1ST111X",
+                            "Product": "CCB",
+                            "SalesOrderID": "1031285660",
+                            "Transportation": "TR40/24",
+                            "Unit": "MT",
+                            "DeliverStatus": "D"
+                        }
+                    ]
+                },
+                {
+                    "WBS1": "CC1",
+                    "WBS2": "1",
+                    "STRCT": "COLUMN",
+                    "SalesOrder": [
+                        {
+                            "Quantity": 0.909,
+                            "LoadNumber": "2012110107",
+                            "PONumber": "PDDCC1ST112X",
+                            "Product": "CCB",
+                            "SalesOrderID": "1031285687",
+                            "Transportation": "TR40/24",
+                            "Unit": "MT",
+                            "DeliverStatus": "D"
+                        }
+                    ]
+                },
+                {
+                    "WBS1": "CC1",
+                    "WBS2": "1",
+                    "STRCT": "SLAB",
+                    "SalesOrder": [
+                        {
+                            "Quantity": 3.365,
+                            "LoadNumber": "2012110010",
+                            "PONumber": "PDDCC1ST297",
+                            "Product": "CAB",
+                            "SalesOrderID": "1031285558",
+                            "Transportation": "TR40/24",
+                            "Unit": "MT",
+                            "DeliverStatus": "D"
+                        },
+                        {
+                            "Quantity": 16.229,
+                            "LoadNumber": "2012110010",
+                            "PONumber": "PDDCC1ST296",
+                            "Product": "CAB",
+                            "SalesOrderID": "1031285352",
+                            "Transportation": "TR40/24",
+                            "Unit": "MT",
+                            "DeliverStatus": "D"
+                        },
+                        {
+                            "Quantity": 0.358,
+                            "LoadNumber": "2012110010",
+                            "PONumber": "PDDCC1ST297A",
+                            "Product": "CAB",
+                            "SalesOrderID": "1031285406",
+                            "Transportation": "TR40/24",
+                            "Unit": "MT",
+                            "DeliverStatus": "D"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "_id": "20201208",
+            "WBS": [
+                {
+                    "WBS1": "CC2",
+                    "WBS2": "1",
+                    "STRCT": "SLAB",
+                    "SalesOrder": [
+                        {
+                            "Quantity": 7.457,
+                            "LoadNumber": "2012068910",
+                            "PONumber": "PDDCC2CGW340X",
+                            "Product": "CCB",
+                            "SalesOrderID": "1031284574",
+                            "Transportation": "TR40/36",
+                            "Unit": "MT",
+                            "DeliverStatus": "D"
+                        },
+                        {
+                            "Quantity": 15.707,
+                            "LoadNumber": "2012068910",
+                            "PONumber": "PDDCC2CGW330",
+                            "Product": "CAB",
+                            "SalesOrderID": "1031284319",
+                            "Transportation": "TR40/36",
+                            "Unit": "MT",
+                            "DeliverStatus": "D"
+                        }
+                    ]
+                },
+                {
+                    "WBS1": "CC1",
+                    "WBS2": "1",
+                    "STRCT": "BEAM",
+                    "SalesOrder": [
+                        {
+                            "Quantity": 1.574,
+                            "LoadNumber": "2012089281",
+                            "PONumber": "PDDCC1ST294",
+                            "Product": "CAB",
+                            "SalesOrderID": "1031284936",
+                            "Transportation": "TR40/24",
+                            "Unit": "MT",
+                            "DeliverStatus": "D"
+                        }
+                    ]
+                },
+                {
+                    "WBS1": "CC1",
+                    "WBS2": "1",
+                    "STRCT": "WALL",
+                    "SalesOrder": [
+                        {
+                            "Quantity": 1.8800000000000001,
+                            "LoadNumber": "2012089281",
+                            "PONumber": "PDDCC1ST295",
+                            "Product": "CAB",
+                            "SalesOrderID": "1031284931",
+                            "Transportation": "TR40/24",
+                            "Unit": "MT",
+                            "DeliverStatus": "D"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "_id": "20201207",
+            "WBS": [
+                {
+                    "WBS1": "CC2",
+                    "WBS2": "1",
+                    "STRCT": "SLAB",
+                    "SalesOrder": [
+                        {
+                            "Quantity": 8.129,
+                            "LoadNumber": "2012058794",
+                            "PONumber": "PDDCC2CGW341",
+                            "Product": "CAB",
+                            "SalesOrderID": "1031283796",
+                            "Transportation": "TR40/36",
+                            "Unit": "MT",
+                            "DeliverStatus": "D"
+                        },
+                        {
+                            "Quantity": 0.739,
+                            "LoadNumber": "2012058794",
+                            "PONumber": "PDDCC2CGW338",
+                            "Product": "CAB",
+                            "SalesOrderID": "1031283794",
+                            "Transportation": "TR40/36",
+                            "Unit": "MT",
+                            "DeliverStatus": "D"
+                        },
+                        {
+                            "Quantity": 0.182,
+                            "LoadNumber": "2012058794",
+                            "PONumber": "PDDCC2CGW334X",
+                            "Product": "CCB",
+                            "SalesOrderID": "1031284078",
+                            "Transportation": "TR40/36",
+                            "Unit": "MT",
+                            "DeliverStatus": "D"
+                        },
+                        {
+                            "Quantity": 0.253,
+                            "LoadNumber": "2012058794",
+                            "PONumber": "PDDCC2CGW339X",
+                            "Product": "CCB",
+                            "SalesOrderID": "1031283795",
+                            "Transportation": "TR40/36",
+                            "Unit": "MT",
+                            "DeliverStatus": "D"
+                        },
+                        {
+                            "Quantity": 0.715,
+                            "LoadNumber": "2012058794",
+                            "PONumber": "PDDCC2CGW335",
+                            "Product": "CAB",
+                            "SalesOrderID": "1031284130",
+                            "Transportation": "TR40/36",
+                            "Unit": "MT",
+                            "DeliverStatus": "D"
+                        },
+                        {
+                            "Quantity": 2.075,
+                            "LoadNumber": "2012058794",
+                            "PONumber": "PDDCC2CGW329X",
+                            "Product": "CCB",
+                            "SalesOrderID": "1031284072",
+                            "Transportation": "TR40/36",
+                            "Unit": "MT",
+                            "DeliverStatus": "D"
+                        },
+                        {
+                            "Quantity": 0.14900000000000002,
+                            "LoadNumber": "2012058794",
+                            "PONumber": "PDDCC2CGW331",
+                            "Product": "CAB",
+                            "SalesOrderID": "1031284122",
+                            "Transportation": "TR40/36",
+                            "Unit": "MT",
+                            "DeliverStatus": "D"
+                        }
+                    ]
+                },
+                {
+                    "WBS1": "CC2",
+                    "WBS2": "1",
+                    "STRCT": "COLUMN",
+                    "SalesOrder": [
+                        {
+                            "Quantity": 0.348,
+                            "LoadNumber": "2012058794",
+                            "PONumber": "PDDCC2CGW345X",
+                            "Product": "CCB",
+                            "SalesOrderID": "1031285090",
+                            "Transportation": "TR40/36",
+                            "Unit": "MT",
+                            "DeliverStatus": "D"
+                        }
+                    ]
+                },
+                {
+                    "WBS1": "CC2",
+                    "WBS2": "1",
+                    "STRCT": "BEAM",
+                    "SalesOrder": [
+                        {
+                            "Quantity": 5.454,
+                            "LoadNumber": "2012058794",
+                            "PONumber": "PDDCC2CGW337",
+                            "Product": "CAB",
+                            "SalesOrderID": "1031283793",
+                            "Transportation": "TR40/36",
+                            "Unit": "MT",
+                            "DeliverStatus": "D"
+                        },
+                        {
+                            "Quantity": 3.187,
+                            "LoadNumber": "2012058794",
+                            "PONumber": "PDDCC2CGW336X",
+                            "Product": "CCB",
+                            "SalesOrderID": "1031283792",
+                            "Transportation": "TR40/36",
+                            "Unit": "MT",
+                            "DeliverStatus": "D"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "_id": "20201214",
+            "WBS": [
+                {
+                    "WBS1": "CC2",
+                    "WBS2": "1",
+                    "STRCT": "COLUMN",
+                    "SalesOrder": [
+                        {
+                            "Quantity": 2.942,
+                            "LoadNumber": "2012140773",
+                            "PONumber": "PDDCC2CGW350X",
+                            "Product": "CCB",
+                            "SalesOrderID": "1031286073",
+                            "Transportation": "TR40/24",
+                            "Unit": "MT",
+                            "DeliverStatus": "D"
+                        },
+                        {
+                            "Quantity": 0.028,
+                            "LoadNumber": "2012140773",
+                            "PONumber": "PDDCC2CGW351",
+                            "Product": "CAB",
+                            "SalesOrderID": "1031286072",
+                            "Transportation": "TR40/24",
+                            "Unit": "MT",
+                            "DeliverStatus": "D"
+                        },
+                        {
+                            "Quantity": 12.249,
+                            "LoadNumber": "2012140773",
+                            "PONumber": "PDDCC2CGW348X",
+                            "Product": "CCB",
+                            "SalesOrderID": "1031286150",
+                            "Transportation": "TR40/24",
+                            "Unit": "MT",
+                            "DeliverStatus": "D"
+                        }
+                    ]
+                },
+                {
+                    "WBS1": "CC2",
+                    "WBS2": "1",
+                    "STRCT": "SLAB",
+                    "SalesOrder": [
+                        {
+                            "Quantity": 3.283,
+                            "LoadNumber": "2012140773",
+                            "PONumber": "PDDCC2CGW347",
+                            "Product": "CAB",
+                            "SalesOrderID": "1031286042",
+                            "Transportation": "TR40/24",
+                            "Unit": "MT",
+                            "DeliverStatus": "D"
+                        }
+                    ]
+                },
+                {
+                    "WBS1": "CC1",
+                    "WBS2": "1",
+                    "STRCT": "BEAM",
+                    "SalesOrder": [
+                        {
+                            "Quantity": 0.739,
+                            "LoadNumber": "2012140757",
+                            "PONumber": "PDDCC1ST310A",
+                            "Product": "CAB",
+                            "SalesOrderID": "1031286265",
+                            "Transportation": "TR40/36",
+                            "Unit": "MT",
+                            "DeliverStatus": "D"
+                        }
+                    ]
+                },
+                {
+                    "WBS1": "CC1",
+                    "WBS2": "1",
+                    "STRCT": "SLAB",
+                    "SalesOrder": [
+                        {
+                            "Quantity": 15.921,
+                            "LoadNumber": "2012140757",
+                            "PONumber": "PDDCC1ST299",
+                            "Product": "CAB",
+                            "SalesOrderID": "1031286374",
+                            "Transportation": "TR40/36",
+                            "Unit": "MT",
+                            "DeliverStatus": "D"
+                        }
+                    ]
+                },
+                {
+                    "WBS1": "TEST",
+                    "WBS2": "1",
+                    "STRCT": "SLAB",
+                    "SalesOrder": [
+                        {
+                            "Quantity": 0.24100000000000002,
+                            "LoadNumber": "2012140790",
+                            "PONumber": "PDDCC1WH040",
+                            "Product": "CCB",
+                            "SalesOrderID": "1031284052",
+                            "Transportation": "HC1",
+                            "Unit": "MT",
+                            "DeliverStatus": "D"
+                        }
+                    ]
+                },
+                {
+                    "WBS1": " ",
+                    "WBS2": " ",
+                    "STRCT": " ",
+                    "SalesOrder": [
+                        {
+                            "Quantity": 10,
+                            "LoadNumber": "2012140757",
+                            "PONumber": "PDDCC1ST299A",
+                            "Product": "BARDBX",
+                            "SalesOrderID": "1031285963",
+                            "Transportation": "TR40/36",
+                            "Unit": "MT",
+                            "DeliverStatus": "D"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "_id": "20201218",
+            "WBS": [
+                {
+                    "WBS1": "CC2",
+                    "WBS2": "1",
+                    "STRCT": "SLAB",
+                    "SalesOrder": [
+                        {
+                            "Quantity": 27.026999999999997,
+                            "LoadNumber": "2012171453",
+                            "PONumber": "PDDCC2CGW355X",
+                            "Product": "CCB",
+                            "SalesOrderID": "1031286830",
+                            "Transportation": "TR40/36",
+                            "Unit": "MT",
+                            "DeliverStatus": "D"
+                        },
+                        {
+                            "Quantity": 11.865,
+                            "LoadNumber": "2012171454",
+                            "PONumber": "PDDCC2CGW356X",
+                            "Product": "CCB",
+                            "SalesOrderID": "1031287321",
+                            "Transportation": "TR40/24",
+                            "Unit": "MT",
+                            "DeliverStatus": "D"
+                        }
+                    ]
+                },
+                {
+                    "WBS1": "CC2",
+                    "WBS2": "1",
+                    "STRCT": "BEAM",
+                    "SalesOrder": [
+                        {
+                            "Quantity": 0.16699999999999998,
+                            "LoadNumber": "2012089964",
+                            "PONumber": "PDDCC2CGW374X",
+                            "Product": "CCB",
+                            "SalesOrderID": "1031288586",
+                            "Transportation": "HC1",
+                            "Unit": "MT",
+                            "DeliverStatus": "D"
+                        },
+                        {
+                            "Quantity": 0.436,
+                            "LoadNumber": "2012171454",
+                            "PONumber": "PDDCC2CGW354X",
+                            "Product": "CCB",
+                            "SalesOrderID": "1031286767",
+                            "Transportation": "TR40/24",
+                            "Unit": "MT",
+                            "DeliverStatus": "D"
+                        }
+                    ]
+                },
+                {
+                    "WBS1": "CC1",
+                    "WBS2": "1",
+                    "STRCT": "SLAB",
+                    "SalesOrder": [
+                        {
+                            "Quantity": 8.408,
+                            "LoadNumber": "2012181637",
+                            "PONumber": "PDDCC1ST306",
+                            "Product": "CAB",
+                            "SalesOrderID": "1031287142",
+                            "Transportation": "TR40/24",
+                            "Unit": "MT",
+                            "DeliverStatus": "D"
+                        },
+                        {
+                            "Quantity": 2.589,
+                            "LoadNumber": "2012181637",
+                            "PONumber": "PDDCC1ST307",
+                            "Product": "CAB",
+                            "SalesOrderID": "1031287612",
+                            "Transportation": "TR40/24",
+                            "Unit": "MT",
+                            "DeliverStatus": "D"
+                        }
+                    ]
+                },
+                {
+                    "WBS1": " ",
+                    "WBS2": " ",
+                    "STRCT": " ",
+                    "SalesOrder": [
+                        {
+                            "Quantity": 2,
+                            "LoadNumber": "2012171454",
+                            "PONumber": "PDDCC2CGW358",
+                            "Product": "BARDBX",
+                            "SalesOrderID": "1031286727",
+                            "Transportation": "TR40/24",
+                            "Unit": "MT",
+                            "DeliverStatus": "D"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "_id": "20201209",
+            "WBS": [
+                {
+                    "WBS1": "CC2",
+                    "WBS2": "1",
+                    "STRCT": "WALL",
+                    "SalesOrder": [
+                        {
+                            "Quantity": 0.521,
+                            "LoadNumber": "2012089444",
+                            "PONumber": "PDDCC2CGW346",
+                            "Product": "CAB",
+                            "SalesOrderID": "1031285088",
+                            "Transportation": "TR40/24",
+                            "Unit": "MT",
+                            "DeliverStatus": "D"
+                        }
+                    ]
+                },
+                {
+                    "WBS1": "CC2",
+                    "WBS2": "1",
+                    "STRCT": "SLAB",
+                    "SalesOrder": [
+                        {
+                            "Quantity": 0.15300000000000002,
+                            "LoadNumber": "2012089444",
+                            "PONumber": "PDDCC2CGW343",
+                            "Product": "CAB",
+                            "SalesOrderID": "1031284588",
+                            "Transportation": "TR40/24",
+                            "Unit": "MT",
+                            "DeliverStatus": "D"
+                        },
+                        {
+                            "Quantity": 9.447,
+                            "LoadNumber": "2012089444",
+                            "PONumber": "PDDCC2CGW342",
+                            "Product": "CAB",
+                            "SalesOrderID": "1031284576",
+                            "Transportation": "TR40/24",
+                            "Unit": "MT",
+                            "DeliverStatus": "D"
+                        }
+                    ]
+                },
+                {
+                    "WBS1": "CC1",
+                    "WBS2": "1",
+                    "STRCT": "COLUMN",
+                    "SalesOrder": [
+                        {
+                            "Quantity": 5.009,
+                            "LoadNumber": "2012089217",
+                            "PONumber": "PDDCC1ST109XA",
+                            "Product": "CCB",
+                            "SalesOrderID": "1031284979",
+                            "Transportation": "TR40/24",
+                            "Unit": "MT",
+                            "DeliverStatus": "D"
+                        }
+                    ]
+                },
+                {
+                    "WBS1": "CC1",
+                    "WBS2": "1",
+                    "STRCT": "BEAM",
+                    "SalesOrder": [
+                        {
+                            "Quantity": 2.977,
+                            "LoadNumber": "2012089217",
+                            "PONumber": "PDDCC1ST105X",
+                            "Product": "CCB",
+                            "SalesOrderID": "1031284900",
+                            "Transportation": "TR40/24",
+                            "Unit": "MT",
+                            "DeliverStatus": "D"
+                        },
+                        {
+                            "Quantity": 4.779,
+                            "LoadNumber": "2012089217",
+                            "PONumber": "PDDCC1ST282A",
+                            "Product": "CAB",
+                            "SalesOrderID": "1031285974",
+                            "Transportation": "TR40/24",
+                            "Unit": "MT",
+                            "DeliverStatus": "D"
+                        },
+                        {
+                            "Quantity": 2.382,
+                            "LoadNumber": "2012089217",
+                            "PONumber": "PDDCC1ST108X",
+                            "Product": "CCB",
+                            "SalesOrderID": "1031284975",
+                            "Transportation": "TR40/24",
+                            "Unit": "MT",
+                            "DeliverStatus": "D"
+                        }
+                    ]
+                },
+                {
+                    "WBS1": "CC1",
+                    "WBS2": "1",
+                    "STRCT": "WALL",
+                    "SalesOrder": [
+                        {
+                            "Quantity": 0.179,
+                            "LoadNumber": "2012089217",
+                            "PONumber": "PDDCC1ST110X",
+                            "Product": "CCB",
+                            "SalesOrderID": "1031285281",
+                            "Transportation": "TR40/24",
+                            "Unit": "MT",
+                            "DeliverStatus": "D"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "_id": "20201122",
+            "WBS": [
+                {
+                    "WBS1": "CC1",
+                    "WBS2": "1",
+                    "STRCT": "BEAM",
+                    "SalesOrder": [
+                        {
+                            "Quantity": 2.689,
+                            "LoadNumber": "2011205122",
+                            "PONumber": "PDDCC1ST273A",
+                            "Product": "CAB",
+                            "SalesOrderID": "1031280253",
+                            "Transportation": "TR40/36",
+                            "Unit": "MT",
+                            "DeliverStatus": "D"
+                        },
+                        {
+                            "Quantity": 23.56,
+                            "LoadNumber": "2011205122",
+                            "PONumber": "PDDCC1ST273",
+                            "Product": "CAB",
+                            "SalesOrderID": "1031279418",
+                            "Transportation": "TR40/36",
+                            "Unit": "MT",
+                            "DeliverStatus": "D"
+                        }
+                    ]
+                },
+                {
+                    "WBS1": "CC1",
+                    "WBS2": "1",
+                    "STRCT": "COLUMN",
+                    "SalesOrder": [
+                        {
+                            "Quantity": 0.183,
+                            "LoadNumber": "2011205122",
+                            "PONumber": "PDDCC1ST276",
+                            "Product": "CAB",
+                            "SalesOrderID": "1031280258",
+                            "Transportation": "TR40/36",
+                            "Unit": "MT",
+                            "DeliverStatus": "D"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "_id": "20201120",
+            "WBS": [
+                {
+                    "WBS1": "CC3",
+                    "WBS2": "1",
+                    "STRCT": "BEAM",
+                    "SalesOrder": [
+                        {
+                            "Quantity": 2.447,
+                            "LoadNumber": "2011205141",
+                            "PONumber": "PDDCC3TT046X",
+                            "Product": "CCB",
+                            "SalesOrderID": "1031280491",
+                            "Transportation": "HC1",
+                            "Unit": "MT",
+                            "DeliverStatus": "D"
+                        }
+                    ]
+                },
+                {
+                    "WBS1": "CC1",
+                    "WBS2": "1",
+                    "STRCT": "COLUMN",
+                    "SalesOrder": [
+                        {
+                            "Quantity": 4.938000000000001,
+                            "LoadNumber": "2011205130",
+                            "PONumber": "PDDCC1ST097X",
+                            "Product": "CCB",
+                            "SalesOrderID": "1031280252",
+                            "Transportation": "TR40/24",
+                            "Unit": "MT",
+                            "DeliverStatus": "D"
+                        }
+                    ]
+                },
+                {
+                    "WBS1": "CC1",
+                    "WBS2": "1",
+                    "STRCT": "SLAB",
+                    "SalesOrder": [
+                        {
+                            "Quantity": 22.854,
+                            "LoadNumber": "2011205297",
+                            "PONumber": "PDDCC1ST253A",
+                            "Product": "CAB",
+                            "SalesOrderID": "1031279051",
+                            "Transportation": "TR40/24",
+                            "Unit": "MT",
+                            "DeliverStatus": "D"
+                        },
+                        {
+                            "Quantity": 4.101,
+                            "LoadNumber": "2011205130",
+                            "PONumber": "PDDCC1ST098X",
+                            "Product": "CCB",
+                            "SalesOrderID": "1031280314",
+                            "Transportation": "TR40/24",
+                            "Unit": "MT",
+                            "DeliverStatus": "D"
+                        },
+                        {
+                            "Quantity": 16.819,
+                            "LoadNumber": "2011184659",
+                            "PONumber": "PDDCC1ST252",
+                            "Product": "CAB",
+                            "SalesOrderID": "1031278823",
+                            "Transportation": "TR40/36",
+                            "Unit": "MT",
+                            "DeliverStatus": "D"
+                        }
+                    ]
+                },
+                {
+                    "WBS1": "CC2",
+                    "WBS2": "1",
+                    "STRCT": "COLUMN",
+                    "SalesOrder": [
+                        {
+                            "Quantity": 3.3200000000000003,
+                            "LoadNumber": "2011184665",
+                            "PONumber": "PDDCC2CGW301X",
+                            "Product": "CCB",
+                            "SalesOrderID": "1031279863",
+                            "Transportation": "TR40/36",
+                            "Unit": "MT",
+                            "DeliverStatus": "D"
+                        }
+                    ]
+                },
+                {
+                    "WBS1": "CC2",
+                    "WBS2": "1",
+                    "STRCT": "BEAM",
+                    "SalesOrder": [
+                        {
+                            "Quantity": 1.015,
+                            "LoadNumber": "2011184665",
+                            "PONumber": "PDDCC2CGW303X",
+                            "Product": "CCB",
+                            "SalesOrderID": "1031279831",
+                            "Transportation": "TR40/36",
+                            "Unit": "MT",
+                            "DeliverStatus": "D"
+                        },
+                        {
+                            "Quantity": 17.17,
+                            "LoadNumber": "2011184665",
+                            "PONumber": "PDDCC2CGW293",
+                            "Product": "CAB",
+                            "SalesOrderID": "1031279131",
+                            "Transportation": "TR40/36",
+                            "Unit": "MT",
+                            "DeliverStatus": "D"
+                        }
+                    ]
+                },
+                {
+                    "WBS1": "CC1",
+                    "WBS2": "1",
+                    "STRCT": "BEAM",
+                    "SalesOrder": [
+                        {
+                            "Quantity": 0.7849999999999999,
+                            "LoadNumber": "2011205297",
+                            "PONumber": "PDDCC1ST133A",
+                            "Product": "CAB",
+                            "SalesOrderID": "1031280861",
+                            "Transportation": "TR40/24",
+                            "Unit": "MT",
+                            "DeliverStatus": "D"
+                        },
+                        {
+                            "Quantity": 0.303,
+                            "LoadNumber": "2011205130",
+                            "PONumber": "PDDCC1WH037X",
+                            "Product": "CCB",
+                            "SalesOrderID": "1031280577",
+                            "Transportation": "TR40/24",
+                            "Unit": "MT",
+                            "DeliverStatus": "D"
+                        }
+                    ]
+                },
+                {
+                    "WBS1": " ",
+                    "WBS2": " ",
+                    "STRCT": " ",
+                    "SalesOrder": [
+                        {
+                            "Quantity": 4,
+                            "LoadNumber": "2011184659",
+                            "PONumber": "PDDCC1ST252A",
+                            "Product": "BARDBX",
+                            "SalesOrderID": "1031278929",
+                            "Transportation": "TR40/36",
+                            "Unit": "MT",
+                            "DeliverStatus": "D"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "_id": "20201129",
+            "WBS": [
+                {
+                    "WBS1": "CC2",
+                    "WBS2": "1",
+                    "STRCT": "BEAM",
+                    "SalesOrder": [
+                        {
+                            "Quantity": 13.565,
+                            "LoadNumber": "2011297471",
+                            "PONumber": "PDDCC2CGW316X",
+                            "Product": "CCB",
+                            "SalesOrderID": "1031282210",
+                            "Transportation": "TR40/36",
+                            "Unit": "MT",
+                            "DeliverStatus": "D"
+                        },
+                        {
+                            "Quantity": 8.234,
+                            "LoadNumber": "2011297471",
+                            "PONumber": "PDDCC2CGW317",
+                            "Product": "CAB",
+                            "SalesOrderID": "1031282276",
+                            "Transportation": "TR40/36",
+                            "Unit": "MT",
+                            "DeliverStatus": "D"
+                        }
+                    ]
+                },
+                {
+                    "WBS1": "CC2",
+                    "WBS2": "1",
+                    "STRCT": "SLAB",
+                    "SalesOrder": [
+                        {
+                            "Quantity": 1.068,
+                            "LoadNumber": "2011297471",
+                            "PONumber": "PDDCC2CGW318X",
+                            "Product": "CCB",
+                            "SalesOrderID": "1031282144",
+                            "Transportation": "TR40/36",
+                            "Unit": "MT",
+                            "DeliverStatus": "D"
+                        }
+                    ]
+                },
+                {
+                    "WBS1": "CC2",
+                    "WBS2": "1",
+                    "STRCT": "COLUMN",
+                    "SalesOrder": [
+                        {
+                            "Quantity": 0.32,
+                            "LoadNumber": "2011297471",
+                            "PONumber": "PDDCC2CGW322X",
+                            "Product": "CCB",
+                            "SalesOrderID": "1031282143",
+                            "Transportation": "TR40/36",
+                            "Unit": "MT",
+                            "DeliverStatus": "D"
+                        },
+                        {
+                            "Quantity": 0.434,
+                            "LoadNumber": "2011297471",
+                            "PONumber": "PDDCC2CGW324",
+                            "Product": "CAB",
+                            "SalesOrderID": "1031282137",
+                            "Transportation": "TR40/36",
+                            "Unit": "MT",
+                            "DeliverStatus": "D"
+                        }
+                    ]
+                },
+                {
+                    "WBS1": "CC1",
+                    "WBS2": "1",
+                    "STRCT": "BEAM",
+                    "SalesOrder": [
+                        {
+                            "Quantity": 15.547,
+                            "LoadNumber": "2011297473",
+                            "PONumber": "PDDCC1ST268",
+                            "Product": "CAB",
+                            "SalesOrderID": "1031281351",
+                            "Transportation": "TR40/24",
+                            "Unit": "MT",
+                            "DeliverStatus": "D"
+                        },
+                        {
+                            "Quantity": 18.741,
+                            "LoadNumber": "2011297474",
+                            "PONumber": "PDDCC1ST280",
+                            "Product": "CAB",
+                            "SalesOrderID": "1031281598",
+                            "Transportation": "TR40/24",
+                            "Unit": "MT",
+                            "DeliverStatus": "D"
+                        },
+                        {
+                            "Quantity": 5.066,
+                            "LoadNumber": "2011297473",
+                            "PONumber": "PDDCC1ST278",
+                            "Product": "CAB",
+                            "SalesOrderID": "1031281789",
+                            "Transportation": "TR40/24",
+                            "Unit": "MT",
+                            "DeliverStatus": "D"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "_id": "20201123",
+            "WBS": [
+                {
+                    "WBS1": "CC2",
+                    "WBS2": "1",
+                    "STRCT": "SLAB",
+                    "SalesOrder": [
+                        {
+                            "Quantity": 0.391,
+                            "LoadNumber": "2011235924",
+                            "PONumber": "PDDCC2CGW313",
+                            "Product": "CAB",
+                            "SalesOrderID": "1031280489",
+                            "Transportation": "TR40/24",
+                            "Unit": "MT",
+                            "DeliverStatus": "D"
+                        },
+                        {
+                            "Quantity": 0.13899999999999998,
+                            "LoadNumber": "2011235924",
+                            "PONumber": "PDDCC2CGW315",
+                            "Product": "CAB",
+                            "SalesOrderID": "1031280539",
+                            "Transportation": "TR40/24",
+                            "Unit": "MT",
+                            "DeliverStatus": "D"
+                        }
+                    ]
+                },
+                {
+                    "WBS1": "STN",
+                    "WBS2": "1",
+                    "STRCT": "SLAB",
+                    "SalesOrder": [
+                        {
+                            "Quantity": 4.438,
+                            "LoadNumber": "2011235924",
+                            "PONumber": "PDDSTNCGW287",
+                            "Product": "CAB",
+                            "SalesOrderID": "1031279876",
+                            "Transportation": "TR40/24",
+                            "Unit": "MT",
+                            "DeliverStatus": "D"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "_id": "20201222",
+            "WBS": [
+                {
+                    "WBS1": "CC1",
+                    "WBS2": "1",
+                    "STRCT": "SLAB",
+                    "SalesOrder": [
+                        {
+                            "Quantity": 0.302,
+                            "LoadNumber": "2012222317",
+                            "PONumber": "PDDCC1ST308",
+                            "Product": "CAB",
+                            "SalesOrderID": "1031287818",
+                            "Transportation": "TR40/24",
+                            "Unit": "MT",
+                            "DeliverStatus": "A"
+                        },
+                        {
+                            "Quantity": 7.458,
+                            "LoadNumber": "2012222317",
+                            "PONumber": "PDDCC1ST309",
+                            "Product": "CAB",
+                            "SalesOrderID": "1031287816",
+                            "Transportation": "TR40/24",
+                            "Unit": "MT",
+                            "DeliverStatus": "A"
+                        }
+                    ]
+                },
+                {
+                    "WBS1": "CC3",
+                    "WBS2": "B2",
+                    "STRCT": "SLAB",
+                    "SalesOrder": [
+                        {
+                            "Quantity": 6.399,
+                            "LoadNumber": "2012222356",
+                            "PONumber": "PDDCC3TT056A",
+                            "Product": "CAB",
+                            "SalesOrderID": "1031287647",
+                            "Transportation": "HC1",
+                            "Unit": "MT",
+                            "DeliverStatus": "A"
+                        },
+                        {
+                            "Quantity": 6.399,
+                            "LoadNumber": "2012222355",
+                            "PONumber": "PDDCC3TT056A",
+                            "Product": "CAB",
+                            "SalesOrderID": "1031287647",
+                            "Transportation": "HC1",
+                            "Unit": "MT",
+                            "DeliverStatus": "A"
+                        },
+                        {
+                            "Quantity": 1.846,
+                            "LoadNumber": "2012222356",
+                            "PONumber": "PDDCC3TT056",
+                            "Product": "CAB",
+                            "SalesOrderID": "1031287671",
+                            "Transportation": "HC1",
+                            "Unit": "MT",
+                            "DeliverStatus": "A"
+                        }
+                    ]
+                },
+                {
+                    "WBS1": "STN",
+                    "WBS2": "1",
+                    "STRCT": "SLAB",
+                    "SalesOrder": [
+                        {
+                            "Quantity": 1.139,
+                            "LoadNumber": "2012222319",
+                            "PONumber": "PDDSTNCGW364",
+                            "Product": "CAB",
+                            "SalesOrderID": "1031286814",
+                            "Transportation": "TR40/36",
+                            "Unit": "MT",
+                            "DeliverStatus": "A"
+                        },
+                        {
+                            "Quantity": 1.805,
+                            "LoadNumber": "2012222319",
+                            "PONumber": "PDDSTNCGW365",
+                            "Product": "CAB",
+                            "SalesOrderID": "1031286785",
+                            "Transportation": "TR40/36",
+                            "Unit": "MT",
+                            "DeliverStatus": "A"
+                        }
+                    ]
+                },
+                {
+                    "WBS1": "STN",
+                    "WBS2": "1",
+                    "STRCT": "BEAM",
+                    "SalesOrder": [
+                        {
+                            "Quantity": 2.988,
+                            "LoadNumber": "2012222319",
+                            "PONumber": "PDDSTNCGW358",
+                            "Product": "CAB",
+                            "SalesOrderID": "1031285377",
+                            "Transportation": "TR40/36",
+                            "Unit": "MT",
+                            "DeliverStatus": "A"
+                        },
+                        {
+                            "Quantity": 2.7640000000000002,
+                            "LoadNumber": "2012222319",
+                            "PONumber": "PDDSTNCGW363",
+                            "Product": "CAB",
+                            "SalesOrderID": "1031286920",
+                            "Transportation": "TR40/36",
+                            "Unit": "MT",
+                            "DeliverStatus": "A"
+                        },
+                        {
+                            "Quantity": 2.984,
+                            "LoadNumber": "2012222319",
+                            "PONumber": "PDDSTNCGW361",
+                            "Product": "CAB",
+                            "SalesOrderID": "1031285435",
+                            "Transportation": "TR40/36",
+                            "Unit": "MT",
+                            "DeliverStatus": "A"
+                        },
+                        {
+                            "Quantity": 2.988,
+                            "LoadNumber": "2012222319",
+                            "PONumber": "PDDSTNCGW360",
+                            "Product": "CAB",
+                            "SalesOrderID": "1031285544",
+                            "Transportation": "TR40/36",
+                            "Unit": "MT",
+                            "DeliverStatus": "A"
+                        },
+                        {
+                            "Quantity": 2.984,
+                            "LoadNumber": "2012222319",
+                            "PONumber": "PDDSTNCGW359",
+                            "Product": "CAB",
+                            "SalesOrderID": "1031285546",
+                            "Transportation": "TR40/36",
+                            "Unit": "MT",
+                            "DeliverStatus": "A"
+                        }
+                    ]
+                },
+                {
+                    "WBS1": "CC2",
+                    "WBS2": "1",
+                    "STRCT": "SLAB",
+                    "SalesOrder": [
+                        {
+                            "Quantity": 19.483,
+                            "LoadNumber": "2012222316",
+                            "PONumber": "PDDCC2CGW357",
+                            "Product": "CAB",
+                            "SalesOrderID": "1031287160",
+                            "Transportation": "TR40/24",
+                            "Unit": "MT",
+                            "DeliverStatus": "A"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "_id": "20201124",
+            "WBS": [
+                {
+                    "WBS1": "CC3",
+                    "WBS2": "1",
+                    "STRCT": "BEAM",
+                    "SalesOrder": [
+                        {
+                            "Quantity": 0.389,
+                            "LoadNumber": "2011246187",
+                            "PONumber": "PDDCC3TT047X",
+                            "Product": "CCB",
+                            "SalesOrderID": "1031281794",
+                            "Transportation": "HC1",
+                            "Unit": "MT",
+                            "DeliverStatus": "D"
+                        }
+                    ]
+                },
+                {
+                    "WBS1": "CC2",
+                    "WBS2": "1",
+                    "STRCT": "SLAB",
+                    "SalesOrder": [
+                        {
+                            "Quantity": 20.35,
+                            "LoadNumber": "2011225400",
+                            "PONumber": "PDDCC2CGW308X",
+                            "Product": "CCB",
+                            "SalesOrderID": "1031280353",
+                            "Transportation": "TR40/24",
+                            "Unit": "MT",
+                            "DeliverStatus": "D"
+                        },
+                        {
+                            "Quantity": 19.236,
+                            "LoadNumber": "2011235712",
+                            "PONumber": "PDDCC2CGW311X",
+                            "Product": "CCB",
+                            "SalesOrderID": "1031280488",
+                            "Transportation": "TR40/24",
+                            "Unit": "MT",
+                            "DeliverStatus": "D"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "_id": "20201221",
+            "WBS": [
+                {
+                    "WBS1": "CC1",
+                    "WBS2": "1",
+                    "STRCT": "BEAM",
+                    "SalesOrder": [
+                        {
+                            "Quantity": 10.086,
+                            "LoadNumber": "2012212141",
+                            "PONumber": "PDDCC1ST316",
+                            "Product": "CAB",
+                            "SalesOrderID": "1031287714",
+                            "Transportation": "TR40/24",
+                            "Unit": "MT",
+                            "DeliverStatus": "A"
+                        },
+                        {
+                            "Quantity": 0.092,
+                            "LoadNumber": "2012212141",
+                            "PONumber": "PDDCC1ST316A",
+                            "Product": "CAB",
+                            "SalesOrderID": "1031287685",
+                            "Transportation": "TR40/24",
+                            "Unit": "MT",
+                            "DeliverStatus": "A"
+                        }
+                    ]
+                },
+                {
+                    "WBS1": "STN",
+                    "WBS2": "1",
+                    "STRCT": "BEAM",
+                    "SalesOrder": [
+                        {
+                            "Quantity": 4.959,
+                            "LoadNumber": "2012161254",
+                            "PONumber": "PDDSTNCGW357",
+                            "Product": "CAB",
+                            "SalesOrderID": "1031285096",
+                            "Transportation": "TR40/24",
+                            "Unit": "MT",
+                            "DeliverStatus": "A"
+                        },
+                        {
+                            "Quantity": 5.068,
+                            "LoadNumber": "2012161254",
+                            "PONumber": "PDDSTNCGW356",
+                            "Product": "CAB",
+                            "SalesOrderID": "1031285093",
+                            "Transportation": "TR40/24",
+                            "Unit": "MT",
+                            "DeliverStatus": "A"
+                        }
+                    ]
+                },
+                {
+                    "WBS1": "CC1",
+                    "WBS2": "1",
+                    "STRCT": "SLAB",
+                    "SalesOrder": [
+                        {
+                            "Quantity": 0.835,
+                            "LoadNumber": "2012212141",
+                            "PONumber": "PDDCC1ST315",
+                            "Product": "CAB",
+                            "SalesOrderID": "1031287602",
+                            "Transportation": "TR40/24",
+                            "Unit": "MT",
+                            "DeliverStatus": "A"
+                        }
+                    ]
+                },
+                {
+                    "WBS1": "CC3",
+                    "WBS2": "1",
+                    "STRCT": "WALL",
+                    "SalesOrder": [
+                        {
+                            "Quantity": 6.64,
+                            "LoadNumber": "2012181653",
+                            "PONumber": "PDDCC3TT057",
+                            "Product": "CAB",
+                            "SalesOrderID": "1031287580",
+                            "Transportation": "TR40/36",
+                            "Unit": "MT",
+                            "DeliverStatus": "A"
+                        },
+                        {
+                            "Quantity": 8.184,
+                            "LoadNumber": "2012181653",
+                            "PONumber": "PDDCC3TT058",
+                            "Product": "CAB",
+                            "SalesOrderID": "1031287505",
+                            "Transportation": "TR40/36",
+                            "Unit": "MT",
+                            "DeliverStatus": "A"
+                        },
+                        {
+                            "Quantity": 0.275,
+                            "LoadNumber": "2012181653",
+                            "PONumber": "PDDCC3TT057A",
+                            "Product": "CAB",
+                            "SalesOrderID": "1031287511",
+                            "Transportation": "TR40/36",
+                            "Unit": "MT",
+                            "DeliverStatus": "A"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "_id": "20201217",
+            "WBS": [
+                {
+                    "WBS1": "CC1",
+                    "WBS2": "1",
+                    "STRCT": "SLAB",
+                    "SalesOrder": [
+                        {
+                            "Quantity": 4.461,
+                            "LoadNumber": "2012171527",
+                            "PONumber": "PDDCC1ST305",
+                            "Product": "CAB",
+                            "SalesOrderID": "1031286897",
+                            "Transportation": "TR40/24",
+                            "Unit": "MT",
+                            "DeliverStatus": "D"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "_id": "20201128",
+            "WBS": [
+                {
+                    "WBS1": "CC1",
+                    "WBS2": "1",
+                    "STRCT": "BEAM",
+                    "SalesOrder": [
+                        {
+                            "Quantity": 14.093,
+                            "LoadNumber": "2011287168",
+                            "PONumber": "PDDCC1ST269",
+                            "Product": "CAB",
+                            "SalesOrderID": "1031281297",
+                            "Transportation": "TR40/24",
+                            "Unit": "MT",
+                            "DeliverStatus": "D"
+                        },
+                        {
+                            "Quantity": 2.569,
+                            "LoadNumber": "2011287168",
+                            "PONumber": "PDDCC1ST101X",
+                            "Product": "CCB",
+                            "SalesOrderID": "1031281682",
+                            "Transportation": "TR40/24",
+                            "Unit": "MT",
+                            "DeliverStatus": "D"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "_id": "20201205",
+            "WBS": [
+                {
+                    "WBS1": "CC1",
+                    "WBS2": "1",
+                    "STRCT": "COLUMN",
+                    "SalesOrder": [
+                        {
+                            "Quantity": 2.008,
+                            "LoadNumber": "2012058717",
+                            "PONumber": "PDDCC1ST109X",
+                            "Product": "CCB",
+                            "SalesOrderID": "1031284933",
+                            "Transportation": "TR40/36",
+                            "Unit": "MT",
+                            "DeliverStatus": "D"
+                        },
+                        {
+                            "Quantity": 0.445,
+                            "LoadNumber": "2012058717",
+                            "PONumber": "PDDCC1ST287",
+                            "Product": "CAB",
+                            "SalesOrderID": "1031285084",
+                            "Transportation": "TR40/36",
+                            "Unit": "MT",
+                            "DeliverStatus": "D"
+                        }
+                    ]
+                },
+                {
+                    "WBS1": "CC1",
+                    "WBS2": "1",
+                    "STRCT": "BEAM",
+                    "SalesOrder": [
+                        {
+                            "Quantity": 11.234,
+                            "LoadNumber": "2012048419",
+                            "PONumber": "PDDCC1ST104X",
+                            "Product": "CCB",
+                            "SalesOrderID": "1031283685",
+                            "Transportation": "TR40/36",
+                            "Unit": "MT",
+                            "DeliverStatus": "D"
+                        },
+                        {
+                            "Quantity": 1.628,
+                            "LoadNumber": "2012058717",
+                            "PONumber": "PDDCC1ST104XA",
+                            "Product": "CCB",
+                            "SalesOrderID": "1031284299",
+                            "Transportation": "TR40/36",
+                            "Unit": "MT",
+                            "DeliverStatus": "D"
+                        },
+                        {
+                            "Quantity": 3.685,
+                            "LoadNumber": "2012068914",
+                            "PONumber": "PDDCC1ST277A",
+                            "Product": "CAB",
+                            "SalesOrderID": "1031284616",
+                            "Transportation": "TR40/24",
+                            "Unit": "MT",
+                            "DeliverStatus": "D"
+                        },
+                        {
+                            "Quantity": 11.765,
+                            "LoadNumber": "2012058717",
+                            "PONumber": "PDDCC1ST293",
+                            "Product": "CAB",
+                            "SalesOrderID": "1031284395",
+                            "Transportation": "TR40/36",
+                            "Unit": "MT",
+                            "DeliverStatus": "D"
+                        },
+                        {
+                            "Quantity": 1.014,
+                            "LoadNumber": "2012058717",
+                            "PONumber": "PDDCC1ST107X",
+                            "Product": "CCB",
+                            "SalesOrderID": "1031284392",
+                            "Transportation": "TR40/36",
+                            "Unit": "MT",
+                            "DeliverStatus": "D"
+                        },
+                        {
+                            "Quantity": 10.671,
+                            "LoadNumber": "2012068914",
+                            "PONumber": "PDDCC1ST285",
+                            "Product": "CAB",
+                            "SalesOrderID": "1031283746",
+                            "Transportation": "TR40/24",
+                            "Unit": "MT",
+                            "DeliverStatus": "D"
+                        },
+                        {
+                            "Quantity": 16.822,
+                            "LoadNumber": "2012048419",
+                            "PONumber": "PDDCC1ST283",
+                            "Product": "CAB",
+                            "SalesOrderID": "1031283072",
+                            "Transportation": "TR40/36",
+                            "Unit": "MT",
+                            "DeliverStatus": "D"
+                        }
+                    ]
+                },
+                {
+                    "WBS1": "CC1",
+                    "WBS2": "1",
+                    "STRCT": "WALL",
+                    "SalesOrder": [
+                        {
+                            "Quantity": 1.769,
+                            "LoadNumber": "2012058717",
+                            "PONumber": "PDDCC1ST106X",
+                            "Product": "CCB",
+                            "SalesOrderID": "1031283918",
+                            "Transportation": "TR40/36",
+                            "Unit": "MT",
+                            "DeliverStatus": "D"
+                        },
+                        {
+                            "Quantity": 1.273,
+                            "LoadNumber": "2012058717",
+                            "PONumber": "PDDCC1ST292",
+                            "Product": "CAB",
+                            "SalesOrderID": "1031283913",
+                            "Transportation": "TR40/36",
+                            "Unit": "MT",
+                            "DeliverStatus": "D"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "_id": "20201212",
+            "WBS": [
+                {
+                    "WBS1": "CC1",
+                    "WBS2": "1",
+                    "STRCT": "SLAB",
+                    "SalesOrder": [
+                        {
+                            "Quantity": 2.106,
+                            "LoadNumber": "2012120183",
+                            "PONumber": "PDDCC1ST289",
+                            "Product": "CAB",
+                            "SalesOrderID": "1031285650",
+                            "Transportation": "TR40/24",
+                            "Unit": "MT",
+                            "DeliverStatus": "D"
+                        },
+                        {
+                            "Quantity": 1.865,
+                            "LoadNumber": "2012120183",
+                            "PONumber": "PDDCC1ST300",
+                            "Product": "CAB",
+                            "SalesOrderID": "1031285663",
+                            "Transportation": "TR40/24",
+                            "Unit": "MT",
+                            "DeliverStatus": "D"
+                        },
+                        {
+                            "Quantity": 5.613,
+                            "LoadNumber": "2012120183",
+                            "PONumber": "PDDCC1ST298",
+                            "Product": "CAB",
+                            "SalesOrderID": "1031285662",
+                            "Transportation": "TR40/24",
+                            "Unit": "MT",
+                            "DeliverStatus": "D"
+                        }
+                    ]
+                },
+                {
+                    "WBS1": "STN",
+                    "WBS2": "1",
+                    "STRCT": "SLAB",
+                    "SalesOrder": [
+                        {
+                            "Quantity": 1.752,
+                            "LoadNumber": "2012120452",
+                            "PONumber": "PDDSTNCGW392X",
+                            "Product": "CCB",
+                            "SalesOrderID": "1031286951",
+                            "Transportation": "TR40/24",
+                            "Unit": "MT",
+                            "DeliverStatus": "D"
+                        }
+                    ]
+                },
+                {
+                    "WBS1": "CC2",
+                    "WBS2": "1",
+                    "STRCT": "BEAM",
+                    "SalesOrder": [
+                        {
+                            "Quantity": 15.959999999999999,
+                            "LoadNumber": "2012120452",
+                            "PONumber": "PDDCC2CGW349",
+                            "Product": "CAB",
+                            "SalesOrderID": "1031286290",
+                            "Transportation": "TR40/24",
+                            "Unit": "MT",
+                            "DeliverStatus": "D"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "_id": "20201130",
+            "WBS": [
+                {
+                    "WBS1": "CC2",
+                    "WBS2": "1",
+                    "STRCT": "SLAB",
+                    "SalesOrder": [
+                        {
+                            "Quantity": 20.959,
+                            "LoadNumber": "2011296917",
+                            "PONumber": "PDDCC2CGW320X",
+                            "Product": "CCB",
+                            "SalesOrderID": "1031282315",
+                            "Transportation": "TR40/24",
+                            "Unit": "MT",
+                            "DeliverStatus": "D"
+                        }
+                    ]
+                },
+                {
+                    "WBS1": "CC1",
+                    "WBS2": "1",
+                    "STRCT": "BEAM",
+                    "SalesOrder": [
+                        {
+                            "Quantity": 7.829,
+                            "LoadNumber": "2011307836",
+                            "PONumber": "PDDCC1ST103X",
+                            "Product": "CCB",
+                            "SalesOrderID": "1031282233",
+                            "Transportation": "TR40/24",
+                            "Unit": "MT",
+                            "DeliverStatus": "D"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "_id": "20201121",
+            "WBS": [
+                {
+                    "WBS1": "CC2",
+                    "WBS2": "1",
+                    "STRCT": "BEAM",
+                    "SalesOrder": [
+                        {
+                            "Quantity": 0.471,
+                            "LoadNumber": "2011215387",
+                            "PONumber": "PDDCC2CGW304",
+                            "Product": "CAB",
+                            "SalesOrderID": "1031279835",
+                            "Transportation": "HC1",
+                            "Unit": "MT",
+                            "DeliverStatus": "D"
+                        }
+                    ]
+                },
+                {
+                    "WBS1": "CC1",
+                    "WBS2": "1",
+                    "STRCT": "BEAM",
+                    "SalesOrder": [
+                        {
+                            "Quantity": 12.357,
+                            "LoadNumber": "2011215356",
+                            "PONumber": "PDDCC1ST274",
+                            "Product": "CAB",
+                            "SalesOrderID": "1031279860",
+                            "Transportation": "TR40/36",
+                            "Unit": "MT",
+                            "DeliverStatus": "D"
+                        },
+                        {
+                            "Quantity": 14.063,
+                            "LoadNumber": "2011215356",
+                            "PONumber": "PDDCC1ST275",
+                            "Product": "CAB",
+                            "SalesOrderID": "1031279866",
+                            "Transportation": "TR40/36",
+                            "Unit": "MT",
+                            "DeliverStatus": "D"
+                        }
+                    ]
+                },
+                {
+                    "WBS1": "STN",
+                    "WBS2": "1",
+                    "STRCT": "SLAB",
+                    "SalesOrder": [
+                        {
+                            "Quantity": 8.373000000000001,
+                            "LoadNumber": "4000058841",
+                            "PONumber": "PDDSTNCGW287",
+                            "Product": "CAB",
+                            "SalesOrderID": "1031279875",
+                            "Transportation": "TR40/24",
+                            "Unit": "MT",
+                            "DeliverStatus": "D"
+                        }
+                    ]
+                },
+                {
+                    "WBS1": "CC2",
+                    "WBS2": "1",
+                    "STRCT": "COLUMN",
+                    "SalesOrder": [
+                        {
+                            "Quantity": 2.598,
+                            "LoadNumber": "2011215387",
+                            "PONumber": "PDDCC2CGW302",
+                            "Product": "CAB",
+                            "SalesOrderID": "1031279859",
+                            "Transportation": "HC1",
+                            "Unit": "MT",
+                            "DeliverStatus": "D"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "_id": "20201223",
+            "WBS": [
+                {
+                    "WBS1": "CC2",
+                    "WBS2": "1",
+                    "STRCT": "SLAB",
+                    "SalesOrder": [
+                        {
+                            "Quantity": 0.884,
+                            "LoadNumber": "2012232601",
+                            "PONumber": "PDDCC2CGW362",
+                            "Product": "CAB",
+                            "SalesOrderID": "1031288452",
+                            "Transportation": "TR40/24",
+                            "Unit": "MT",
+                            "DeliverStatus": "A"
+                        },
+                        {
+                            "Quantity": 15.152999999999999,
+                            "LoadNumber": "2012232601",
+                            "PONumber": "PDDCC2CGW359",
+                            "Product": "CAB",
+                            "SalesOrderID": "1031288311",
+                            "Transportation": "TR40/24",
+                            "Unit": "MT",
+                            "DeliverStatus": "A"
+                        }
+                    ]
+                },
+                {
+                    "WBS1": "CC1",
+                    "WBS2": "1",
+                    "STRCT": "SLAB",
+                    "SalesOrder": [
+                        {
+                            "Quantity": 2.885,
+                            "LoadNumber": "2012232603",
+                            "PONumber": "PDDCC1ST321",
+                            "Product": "CAB",
+                            "SalesOrderID": "1031288402",
+                            "Transportation": "TR40/24",
+                            "Unit": "MT",
+                            "DeliverStatus": "A"
+                        },
+                        {
+                            "Quantity": 8.903,
+                            "LoadNumber": "2012232603",
+                            "PONumber": "PDDCC1ST320",
+                            "Product": "CAB",
+                            "SalesOrderID": "1031288048",
+                            "Transportation": "TR40/24",
+                            "Unit": "MT",
+                            "DeliverStatus": "A"
+                        }
+                    ]
+                },
+                {
+                    "WBS1": " ",
+                    "WBS2": " ",
+                    "STRCT": " ",
+                    "SalesOrder": [
+                        {
+                            "Quantity": 2,
+                            "LoadNumber": "2012232603",
+                            "PONumber": "PDDCC1ST320A",
+                            "Product": "BARDBX",
+                            "SalesOrderID": "1031287993",
+                            "Transportation": "TR40/24",
+                            "Unit": "MT",
+                            "DeliverStatus": "A"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "_id": "20201201",
+            "WBS": [
+                {
+                    "WBS1": "CC3",
+                    "WBS2": "1",
+                    "STRCT": "SLAB",
+                    "SalesOrder": [
+                        {
+                            "Quantity": 22.334,
+                            "LoadNumber": "2011297466",
+                            "PONumber": "PDDCC3TT051",
+                            "Product": "CAB",
+                            "SalesOrderID": "1031283080",
+                            "Transportation": "TR40/36",
+                            "Unit": "MT",
+                            "DeliverStatus": "D"
+                        }
+                    ]
+                },
+                {
+                    "WBS1": "CC2",
+                    "WBS2": "1",
+                    "STRCT": "WALL",
+                    "SalesOrder": [
+                        {
+                            "Quantity": 1.99,
+                            "LoadNumber": "2012017957",
+                            "PONumber": "PDDCC2CGW299",
+                            "Product": "CAB",
+                            "SalesOrderID": "1031282886",
+                            "Transportation": "TR40/24",
+                            "Unit": "MT",
+                            "DeliverStatus": "D"
+                        }
+                    ]
+                },
+                {
+                    "WBS1": "CC1",
+                    "WBS2": "1",
+                    "STRCT": "SLAB",
+                    "SalesOrder": [
+                        {
+                            "Quantity": 4.834,
+                            "LoadNumber": "2011297466",
+                            "PONumber": "PDDCC1ST291",
+                            "Product": "CAB",
+                            "SalesOrderID": "1031281767",
+                            "Transportation": "TR40/36",
+                            "Unit": "MT",
+                            "DeliverStatus": "D"
+                        }
+                    ]
+                },
+                {
+                    "WBS1": " ",
+                    "WBS2": " ",
+                    "STRCT": " ",
+                    "SalesOrder": [
+                        {
+                            "Quantity": 2,
+                            "LoadNumber": "2011297466",
+                            "PONumber": "PDDCC3TT051A",
+                            "Product": "BARDBX",
+                            "SalesOrderID": "1031283021",
+                            "Transportation": "TR40/36",
+                            "Unit": "MT",
+                            "DeliverStatus": "D"
+                        }
+                    ]
+                },
+                {
+                    "WBS1": "CC2",
+                    "WBS2": "1",
+                    "STRCT": "COLUMN",
+                    "SalesOrder": [
+                        {
+                            "Quantity": 0.028999999999999998,
+                            "LoadNumber": "2012017957",
+                            "PONumber": "PDDCC2CGW326",
+                            "Product": "CAB",
+                            "SalesOrderID": "1031282876",
+                            "Transportation": "TR40/24",
+                            "Unit": "MT",
+                            "DeliverStatus": "D"
+                        },
+                        {
+                            "Quantity": 1.388,
+                            "LoadNumber": "2012017957",
+                            "PONumber": "PDDCC2CGW325X",
+                            "Product": "CCB",
+                            "SalesOrderID": "1031282892",
+                            "Transportation": "TR40/24",
+                            "Unit": "MT",
+                            "DeliverStatus": "D"
+                        }
+                    ]
+                },
+                {
+                    "WBS1": "CC2",
+                    "WBS2": "1",
+                    "STRCT": "SLAB",
+                    "SalesOrder": [
+                        {
+                            "Quantity": 15.043,
+                            "LoadNumber": "2012017957",
+                            "PONumber": "PDDCC2CGW321",
+                            "Product": "CAB",
+                            "SalesOrderID": "1031282150",
+                            "Transportation": "TR40/24",
+                            "Unit": "MT",
+                            "DeliverStatus": "D"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "_id": "20201219",
+            "WBS": [
+                {
+                    "WBS1": "CC3",
+                    "WBS2": "1",
+                    "STRCT": "BEAM",
+                    "SalesOrder": [
+                        {
+                            "Quantity": 0.504,
+                            "LoadNumber": "2012191880",
+                            "PONumber": "PDDCC3TT059",
+                            "Product": "CAB",
+                            "SalesOrderID": "1031288422",
+                            "Transportation": "HC1",
+                            "Unit": "MT",
+                            "DeliverStatus": "D"
+                        }
+                    ]
+                },
+                {
+                    "WBS1": "STN",
+                    "WBS2": "1",
+                    "STRCT": "SLAB",
+                    "SalesOrder": [
+                        {
+                            "Quantity": 1.42,
+                            "LoadNumber": "2012151040",
+                            "PONumber": "PDDSTNCGW393X",
+                            "Product": "CCB",
+                            "SalesOrderID": "1031288049",
+                            "Transportation": "TR40/24",
+                            "Unit": "MT",
+                            "DeliverStatus": "D"
+                        }
+                    ]
+                },
+                {
+                    "WBS1": "CC1",
+                    "WBS2": "1",
+                    "STRCT": "BEAM",
+                    "SalesOrder": [
+                        {
+                            "Quantity": 3.827,
+                            "LoadNumber": "2012202065",
+                            "PONumber": "PDDCC1ST116X",
+                            "Product": "CCB",
+                            "SalesOrderID": "1031287756",
+                            "Transportation": "TR40/36",
+                            "Unit": "MT",
+                            "DeliverStatus": "D"
+                        }
+                    ]
+                },
+                {
+                    "WBS1": "CC1",
+                    "WBS2": "1",
+                    "STRCT": "SLAB",
+                    "SalesOrder": [
+                        {
+                            "Quantity": 13.75,
+                            "LoadNumber": "2012202065",
+                            "PONumber": "PDDCC1ST314",
+                            "Product": "CAB",
+                            "SalesOrderID": "1031287589",
+                            "Transportation": "TR40/36",
+                            "Unit": "MT",
+                            "DeliverStatus": "D"
+                        },
+                        {
+                            "Quantity": 4.437,
+                            "LoadNumber": "2012202065",
+                            "PONumber": "PDDCC1ST113X",
+                            "Product": "CCB",
+                            "SalesOrderID": "1031287637",
+                            "Transportation": "TR40/36",
+                            "Unit": "MT",
+                            "DeliverStatus": "D"
+                        },
+                        {
+                            "Quantity": 14.056999999999999,
+                            "LoadNumber": "2012202063",
+                            "PONumber": "PDDCC1ST313A",
+                            "Product": "CAB",
+                            "SalesOrderID": "1031287577",
+                            "Transportation": "TR40/36",
+                            "Unit": "MT",
+                            "DeliverStatus": "D"
+                        },
+                        {
+                            "Quantity": 14.36,
+                            "LoadNumber": "2012202063",
+                            "PONumber": "PDDCC1ST313",
+                            "Product": "CAB",
+                            "SalesOrderID": "1031287572",
+                            "Transportation": "TR40/36",
+                            "Unit": "MT",
+                            "DeliverStatus": "D"
+                        }
+                    ]
+                },
+                {
+                    "WBS1": "CC1",
+                    "WBS2": "1",
+                    "STRCT": "WALL",
+                    "SalesOrder": [
+                        {
+                            "Quantity": 1.505,
+                            "LoadNumber": "2012202065",
+                            "PONumber": "PDDCC1ST115X",
+                            "Product": "CCB",
+                            "SalesOrderID": "1031287630",
+                            "Transportation": "TR40/36",
+                            "Unit": "MT",
+                            "DeliverStatus": "D"
+                        }
+                    ]
+                },
+                {
+                    "WBS1": "STN",
+                    "WBS2": "1",
+                    "STRCT": "BEAM",
+                    "SalesOrder": [
+                        {
+                            "Quantity": 4.959,
+                            "LoadNumber": "2012151040",
+                            "PONumber": "PDDSTNCGW355",
+                            "Product": "CAB",
+                            "SalesOrderID": "1031285092",
+                            "Transportation": "TR40/24",
+                            "Unit": "MT",
+                            "DeliverStatus": "D"
+                        },
+                        {
+                            "Quantity": 5.068,
+                            "LoadNumber": "2012151040",
+                            "PONumber": "PDDSTNCGW354",
+                            "Product": "CAB",
+                            "SalesOrderID": "1031285122",
+                            "Transportation": "TR40/24",
+                            "Unit": "MT",
+                            "DeliverStatus": "D"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "_id": "20201126",
+            "WBS": [
+                {
+                    "WBS1": "CC2",
+                    "WBS2": "1",
+                    "STRCT": "BEAM",
+                    "SalesOrder": [
+                        {
+                            "Quantity": 1.3940000000000001,
+                            "LoadNumber": "2011266748",
+                            "PONumber": "PDDCC2CGW312",
+                            "Product": "CAB",
+                            "SalesOrderID": "1031280487",
+                            "Transportation": "TR40/36",
+                            "Unit": "MT",
+                            "DeliverStatus": "D"
+                        },
+                        {
+                            "Quantity": 1.039,
+                            "LoadNumber": "2011266748",
+                            "PONumber": "PDDCC2CGW333",
+                            "Product": "CAB",
+                            "SalesOrderID": "1031282578",
+                            "Transportation": "TR40/36",
+                            "Unit": "MT",
+                            "DeliverStatus": "D"
+                        }
+                    ]
+                },
+                {
+                    "WBS1": " ",
+                    "WBS2": " ",
+                    "STRCT": " ",
+                    "SalesOrder": [
+                        {
+                            "Quantity": 4,
+                            "LoadNumber": "2011266748",
+                            "PONumber": "PDDCC2CGW332",
+                            "Product": "BARDBX",
+                            "SalesOrderID": "1031282515",
+                            "Transportation": "TR40/36",
+                            "Unit": "MT",
+                            "DeliverStatus": "D"
+                        }
+                    ]
+                },
+                {
+                    "WBS1": "CC2",
+                    "WBS2": "1",
+                    "STRCT": "SLAB",
+                    "SalesOrder": [
+                        {
+                            "Quantity": 0.20600000000000002,
+                            "LoadNumber": "2011266748",
+                            "PONumber": "PDDCC2CGW323",
+                            "Product": "CAB",
+                            "SalesOrderID": "1031282158",
+                            "Transportation": "TR40/36",
+                            "Unit": "MT",
+                            "DeliverStatus": "D"
+                        },
+                        {
+                            "Quantity": 13.879999999999999,
+                            "LoadNumber": "2011266748",
+                            "PONumber": "PDDCC2CGW309",
+                            "Product": "CAB",
+                            "SalesOrderID": "1031280494",
+                            "Transportation": "TR40/36",
+                            "Unit": "MT",
+                            "DeliverStatus": "D"
+                        },
+                        {
+                            "Quantity": 8.567,
+                            "LoadNumber": "2011266748",
+                            "PONumber": "PDDCC2CGW310",
+                            "Product": "CAB",
+                            "SalesOrderID": "1031280490",
+                            "Transportation": "TR40/36",
+                            "Unit": "MT",
+                            "DeliverStatus": "D"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "_id": "20201216",
+            "WBS": [
+                {
+                    "WBS1": "CC1",
+                    "WBS2": "1",
+                    "STRCT": "SLAB",
+                    "SalesOrder": [
+                        {
+                            "Quantity": 10.169,
+                            "LoadNumber": "2012161250",
+                            "PONumber": "PDDCC1ST312",
+                            "Product": "CAB",
+                            "SalesOrderID": "1031286888",
+                            "Transportation": "TR40/24",
+                            "Unit": "MT",
+                            "DeliverStatus": "D"
+                        },
+                        {
+                            "Quantity": 0.603,
+                            "LoadNumber": "2012161250",
+                            "PONumber": "PDDCC1ST312A",
+                            "Product": "CAB",
+                            "SalesOrderID": "1031286831",
+                            "Transportation": "TR40/24",
+                            "Unit": "MT",
+                            "DeliverStatus": "D"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "_id": "20201119",
+            "WBS": [
+                {
+                    "WBS1": "CC1",
+                    "WBS2": "1",
+                    "STRCT": "WALL",
+                    "SalesOrder": [
+                        {
+                            "Quantity": 1.384,
+                            "LoadNumber": "2011194921",
+                            "PONumber": "PDDCC1ST096X",
+                            "Product": "CCB",
+                            "SalesOrderID": "1031280147",
+                            "Transportation": "TR40/24",
+                            "Unit": "MT",
+                            "DeliverStatus": "D"
+                        }
+                    ]
+                },
+                {
+                    "WBS1": "CC1",
+                    "WBS2": "1",
+                    "STRCT": "SLAB",
+                    "SalesOrder": [
+                        {
+                            "Quantity": 19.113,
+                            "LoadNumber": "2011194921",
+                            "PONumber": "PDDCC1ST239",
+                            "Product": "CAB",
+                            "SalesOrderID": "1031278471",
+                            "Transportation": "TR40/24",
+                            "Unit": "MT",
+                            "DeliverStatus": "D"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "_id": "20201127",
+            "WBS": [
+                {
+                    "WBS1": "TEST",
+                    "WBS2": "1",
+                    "STRCT": "SLAB",
+                    "SalesOrder": [
+                        {
+                            "Quantity": 0.028,
+                            "LoadNumber": "2011276891",
+                            "PONumber": "PDDCC1WH039",
+                            "Product": "CAB",
+                            "SalesOrderID": "1031282303",
+                            "Transportation": "HC1",
+                            "Unit": "MT",
+                            "DeliverStatus": "D"
+                        }
+                    ]
+                },
+                {
+                    "WBS1": "STN",
+                    "WBS2": "1",
+                    "STRCT": "SLAB",
+                    "SalesOrder": [
+                        {
+                            "Quantity": 1.169,
+                            "LoadNumber": "2011246114",
+                            "PONumber": "PDDSTNCGW338X",
+                            "Product": "CCB",
+                            "SalesOrderID": "1031281998",
+                            "Transportation": "TR40/24",
+                            "Unit": "MT",
+                            "DeliverStatus": "D"
+                        },
+                        {
+                            "Quantity": 1.086,
+                            "LoadNumber": "2011246114",
+                            "PONumber": "PDDSTNCGW337",
+                            "Product": "CAB",
+                            "SalesOrderID": "1031281969",
+                            "Transportation": "TR40/24",
+                            "Unit": "MT",
+                            "DeliverStatus": "D"
+                        }
+                    ]
+                },
+                {
+                    "WBS1": "STN",
+                    "WBS2": "1",
+                    "STRCT": "WALL",
+                    "SalesOrder": [
+                        {
+                            "Quantity": 0.307,
+                            "LoadNumber": "2011246114",
+                            "PONumber": "PDDSTNCGW336",
+                            "Product": "CAB",
+                            "SalesOrderID": "1031281700",
+                            "Transportation": "TR40/24",
+                            "Unit": "MT",
+                            "DeliverStatus": "D"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "_id": "20201210",
+            "WBS": [
+                {
+                    "WBS1": "CC1",
+                    "WBS2": "1",
+                    "STRCT": "BEAM",
+                    "SalesOrder": [
+                        {
+                            "Quantity": 15.403,
+                            "LoadNumber": "2012110018",
+                            "PONumber": "PDDCC1ST288",
+                            "Product": "CAB",
+                            "SalesOrderID": "1031285661",
+                            "Transportation": "TR40/24",
+                            "Unit": "MT",
+                            "DeliverStatus": "D"
+                        }
+                    ]
+                },
+                {
+                    "WBS1": " ",
+                    "WBS2": " ",
+                    "STRCT": " ",
+                    "SalesOrder": [
+                        {
+                            "Quantity": 2,
+                            "LoadNumber": "2012110018",
+                            "PONumber": "PDDCC1ST288A",
+                            "Product": "BARDBX",
+                            "SalesOrderID": "1031285563",
+                            "Transportation": "TR40/24",
+                            "Unit": "MT",
+                            "DeliverStatus": "D"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "_id": "20201213",
+            "WBS": [
+                {
+                    "WBS1": "CC1",
+                    "WBS2": "1",
+                    "STRCT": "SLAB",
+                    "SalesOrder": [
+                        {
+                            "Quantity": 1.184,
+                            "LoadNumber": "2012130476",
+                            "PONumber": "PDDCC1ST303",
+                            "Product": "CAB",
+                            "SalesOrderID": "1031285705",
+                            "Transportation": "TR40/24",
+                            "Unit": "MT",
+                            "DeliverStatus": "D"
+                        },
+                        {
+                            "Quantity": 6.029999999999999,
+                            "LoadNumber": "2012130476",
+                            "PONumber": "PDDCC1ST302",
+                            "Product": "CAB",
+                            "SalesOrderID": "1031285649",
+                            "Transportation": "TR40/24",
+                            "Unit": "MT",
+                            "DeliverStatus": "D"
+                        },
+                        {
+                            "Quantity": 0.467,
+                            "LoadNumber": "2012130476",
+                            "PONumber": "PDDCC1ST301",
+                            "Product": "CAB",
+                            "SalesOrderID": "1031285648",
+                            "Transportation": "TR40/24",
+                            "Unit": "MT",
+                            "DeliverStatus": "D"
+                        }
+                    ]
+                },
+                {
+                    "WBS1": "CC1",
+                    "WBS2": "1",
+                    "STRCT": "BEAM",
+                    "SalesOrder": [
+                        {
+                            "Quantity": 2.583,
+                            "LoadNumber": "2012130476",
+                            "PONumber": "PDDCC1ST310",
+                            "Product": "CAB",
+                            "SalesOrderID": "1031285702",
+                            "Transportation": "TR40/24",
+                            "Unit": "MT",
+                            "DeliverStatus": "D"
+                        }
+                    ]
+                },
+                {
+                    "WBS1": " ",
+                    "WBS2": " ",
+                    "STRCT": " ",
+                    "SalesOrder": [
+                        {
+                            "Quantity": 2,
+                            "LoadNumber": "2012130476",
+                            "PONumber": "PDDCC1ST303A",
+                            "Product": "BARDBX",
+                            "SalesOrderID": "1031285559",
+                            "Transportation": "TR40/24",
+                            "Unit": "MT",
+                            "DeliverStatus": "D"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "_id": "20201125",
+            "WBS": [
+                {
+                    "WBS1": "STN",
+                    "WBS2": "1",
+                    "STRCT": "COLUMN",
+                    "SalesOrder": [
+                        {
+                            "Quantity": 2.455,
+                            "LoadNumber": "2011256637",
+                            "PONumber": "PDDSTNCGW330X",
+                            "Product": "CCB",
+                            "SalesOrderID": "1031281148",
+                            "Transportation": "HC1",
+                            "Unit": "MT",
+                            "DeliverStatus": "D"
+                        }
+                    ]
+                },
+                {
+                    "WBS1": "CC1",
+                    "WBS2": "1",
+                    "STRCT": "BEAM",
+                    "SalesOrder": [
+                        {
+                            "Quantity": 10.299,
+                            "LoadNumber": "2011246200",
+                            "PONumber": "PDDCC1ST277",
+                            "Product": "CAB",
+                            "SalesOrderID": "1031281140",
+                            "Transportation": "TR40/24",
+                            "Unit": "MT",
+                            "DeliverStatus": "D"
+                        },
+                        {
+                            "Quantity": 15.321,
+                            "LoadNumber": "2011256062",
+                            "PONumber": "PDDCC1ST100X",
+                            "Product": "CCB",
+                            "SalesOrderID": "1031281357",
+                            "Transportation": "TR40/24",
+                            "Unit": "MT",
+                            "DeliverStatus": "D"
+                        },
+                        {
+                            "Quantity": 4.095,
+                            "LoadNumber": "2011246200",
+                            "PONumber": "PDDCC1ST099X",
+                            "Product": "CCB",
+                            "SalesOrderID": "1031281356",
+                            "Transportation": "TR40/24",
+                            "Unit": "MT",
+                            "DeliverStatus": "D"
+                        },
+                        {
+                            "Quantity": 1.191,
+                            "LoadNumber": "2011256062",
+                            "PONumber": "PDDCC1ST102X",
+                            "Product": "CCB",
+                            "SalesOrderID": "1031281489",
+                            "Transportation": "TR40/24",
+                            "Unit": "MT",
+                            "DeliverStatus": "D"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "_id": "20201215",
+            "WBS": [
+                {
+                    "WBS1": "CC1",
+                    "WBS2": "1",
+                    "STRCT": "SLAB",
+                    "SalesOrder": [
+                        {
+                            "Quantity": 1.491,
+                            "LoadNumber": "2012151041",
+                            "PONumber": "PDDCC1ST114X",
+                            "Product": "CCB",
+                            "SalesOrderID": "1031286444",
+                            "Transportation": "TR40/36",
+                            "Unit": "MT",
+                            "DeliverStatus": "D"
+                        },
+                        {
+                            "Quantity": 8.03,
+                            "LoadNumber": "2012151041",
+                            "PONumber": "PDDCC1ST311",
+                            "Product": "CAB",
+                            "SalesOrderID": "1031286288",
+                            "Transportation": "TR40/36",
+                            "Unit": "MT",
+                            "DeliverStatus": "D"
+                        }
+                    ]
+                },
+                {
+                    "WBS1": " ",
+                    "WBS2": " ",
+                    "STRCT": " ",
+                    "SalesOrder": [
+                        {
+                            "Quantity": 12,
+                            "LoadNumber": "2012151041",
+                            "PONumber": "PDDCC1ST314A",
+                            "Product": "BARDBX",
+                            "SalesOrderID": "1031287490",
+                            "Transportation": "TR40/36",
+                            "Unit": "MT",
+                            "DeliverStatus": "D"
+                        }
+                    ]
+                },
+                {
+                    "WBS1": "CC1",
+                    "WBS2": "1",
+                    "STRCT": "BEAM",
+                    "SalesOrder": [
+                        {
+                            "Quantity": 7.585,
+                            "LoadNumber": "2012151041",
+                            "PONumber": "PDDCC1ST304",
+                            "Product": "CAB",
+                            "SalesOrderID": "1031286253",
+                            "Transportation": "TR40/36",
+                            "Unit": "MT",
+                            "DeliverStatus": "D"
+                        }
+                    ]
+                },
+                {
+                    "WBS1": "CC2",
+                    "WBS2": "1",
+                    "STRCT": "SLAB",
+                    "SalesOrder": [
+                        {
+                            "Quantity": 0.7809999999999999,
+                            "LoadNumber": "2012151025",
+                            "PONumber": "PDDCC2CGW321X",
+                            "Product": "CCB",
+                            "SalesOrderID": "1031286815",
+                            "Transportation": "HC1",
+                            "Unit": "MT",
+                            "DeliverStatus": "D"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
 }
