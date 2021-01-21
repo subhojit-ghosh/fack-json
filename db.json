@@ -1,206 +1,206 @@
 {
-"success": true,
-"message": "",
-"data": {
-"contractDetails": [
-{
-"CONTRACT_ID": "1020013888",
-"CUSTOMER_ID": "0001101481",
-"VALID_FROM": "20171101",
-"VALID_TO": "20221031",
-"TOTAL_TONNAGE_MT": 102380,
-"TOTAL_QNT_CAB_MT": 37274,
-"TOTAL_QNT_MESH_MT": 0,
-"TOTAL_QNT_BAR_MT": 11142,
-"TOTAL_QNT_BPC_MT": 53964,
-"TOTAL_QNT_PRECAGE_MT": 0,
-"TOTAL_QNT_WR_MT": 0,
-"TOTAL_QNT_PCSTRAND_MT": 0,
-"TOTAL_QNT_PCSTRAND_VALUE": 0,
-"TOTAL_QNT_COLDROLL_MT": 0,
-"TOTAL_QNT_PRECUTWR_MT": 0,
-"TOTAL_QNT_VALUE": 0,
-"TOTAL_QNT_COUPLER_PCS": "990000",
-"TOTAL_QNT_COUPLER_VALUE": 2897500,
-"TOTAL_QNT_BILLET_MT": 0,
-"TOTAL_QNT_CAR_MT": 0,
-"id": "6001501135378e0cd82262e1"
-},
-{
-"CONTRACT_ID": "1020016099",
-"CUSTOMER_ID": "0001101481",
-"VALID_FROM": "20191101",
-"VALID_TO": "20200430",
-"TOTAL_TONNAGE_MT": 2980,
-"TOTAL_QNT_CAB_MT": 0,
-"TOTAL_QNT_MESH_MT": 2980,
-"TOTAL_QNT_BAR_MT": 0,
-"TOTAL_QNT_BPC_MT": 0,
-"TOTAL_QNT_PRECAGE_MT": 0,
-"TOTAL_QNT_WR_MT": 0,
-"TOTAL_QNT_PCSTRAND_MT": 0,
-"TOTAL_QNT_PCSTRAND_VALUE": 0,
-"TOTAL_QNT_COLDROLL_MT": 0,
-"TOTAL_QNT_PRECUTWR_MT": 0,
-"TOTAL_QNT_VALUE": 0,
-"TOTAL_QNT_COUPLER_PCS": "000000",
-"TOTAL_QNT_COUPLER_VALUE": 0,
-"TOTAL_QNT_BILLET_MT": 0,
-"TOTAL_QNT_CAR_MT": 0,
-"id": "6001501135378e0cd8226b51"
-},
-{
-"CONTRACT_ID": "1020016574",
-"CUSTOMER_ID": "0001101481",
-"VALID_FROM": "20200623",
-"VALID_TO": "20201222",
-"TOTAL_TONNAGE_MT": 590,
-"TOTAL_QNT_CAB_MT": 0,
-"TOTAL_QNT_MESH_MT": 590,
-"TOTAL_QNT_BAR_MT": 0,
-"TOTAL_QNT_BPC_MT": 0,
-"TOTAL_QNT_PRECAGE_MT": 0,
-"TOTAL_QNT_WR_MT": 0,
-"TOTAL_QNT_PCSTRAND_MT": 0,
-"TOTAL_QNT_PCSTRAND_VALUE": 0,
-"TOTAL_QNT_COLDROLL_MT": 0,
-"TOTAL_QNT_PRECUTWR_MT": 0,
-"TOTAL_QNT_VALUE": 0,
-"TOTAL_QNT_COUPLER_PCS": "000000",
-"TOTAL_QNT_COUPLER_VALUE": 0,
-"TOTAL_QNT_BILLET_MT": 0,
-"TOTAL_QNT_CAR_MT": 0,
-"id": "6001501135378e0cd822876a"
-},
-{
-"CONTRACT_ID": "1020015778",
-"CUSTOMER_ID": "0001101481",
-"VALID_FROM": "20190801",
-"VALID_TO": "20191031",
-"TOTAL_TONNAGE_MT": 400,
-"TOTAL_QNT_CAB_MT": 0,
-"TOTAL_QNT_MESH_MT": 400,
-"TOTAL_QNT_BAR_MT": 0,
-"TOTAL_QNT_BPC_MT": 0,
-"TOTAL_QNT_PRECAGE_MT": 0,
-"TOTAL_QNT_WR_MT": 0,
-"TOTAL_QNT_PCSTRAND_MT": 0,
-"TOTAL_QNT_PCSTRAND_VALUE": 0,
-"TOTAL_QNT_COLDROLL_MT": 0,
-"TOTAL_QNT_PRECUTWR_MT": 0,
-"TOTAL_QNT_VALUE": 0,
-"TOTAL_QNT_COUPLER_PCS": "000000",
-"TOTAL_QNT_COUPLER_VALUE": 0,
-"TOTAL_QNT_BILLET_MT": 0,
-"TOTAL_QNT_CAR_MT": 0,
-"id": "6001501235378e0cd8228d6d"
-},
-{
-"CONTRACT_ID": "D102013888",
-"CUSTOMER_ID": "0001101481",
-"VALID_FROM": "20171101",
-"VALID_TO": "20211031",
-"TOTAL_TONNAGE_MT": 56220,
-"TOTAL_QNT_CAB_MT": 21620,
-"TOTAL_QNT_MESH_MT": 0,
-"TOTAL_QNT_BAR_MT": 29600,
-"TOTAL_QNT_BPC_MT": 5000,
-"TOTAL_QNT_PRECAGE_MT": 0,
-"TOTAL_QNT_WR_MT": 0,
-"TOTAL_QNT_PCSTRAND_MT": 0,
-"TOTAL_QNT_PCSTRAND_VALUE": 0,
-"TOTAL_QNT_COLDROLL_MT": 0,
-"TOTAL_QNT_PRECUTWR_MT": 0,
-"TOTAL_QNT_VALUE": 0,
-"TOTAL_QNT_COUPLER_PCS": "950000",
-"TOTAL_QNT_COUPLER_VALUE": 289750,
-"TOTAL_QNT_BILLET_MT": 0,
-"TOTAL_QNT_CAR_MT": 0,
-"id": "6001501235378e0cd822a68d"
-},
-{
-"CONTRACT_ID": "1020017003",
-"CUSTOMER_ID": "0001101481",
-"VALID_FROM": "20201223",
-"VALID_TO": "20210623",
-"TOTAL_TONNAGE_MT": 450,
-"TOTAL_QNT_CAB_MT": 0,
-"TOTAL_QNT_MESH_MT": 450,
-"TOTAL_QNT_BAR_MT": 0,
-"TOTAL_QNT_BPC_MT": 0,
-"TOTAL_QNT_PRECAGE_MT": 0,
-"TOTAL_QNT_WR_MT": 0,
-"TOTAL_QNT_PCSTRAND_MT": 0,
-"TOTAL_QNT_PCSTRAND_VALUE": 0,
-"TOTAL_QNT_COLDROLL_MT": 0,
-"TOTAL_QNT_PRECUTWR_MT": 0,
-"TOTAL_QNT_VALUE": 0,
-"TOTAL_QNT_COUPLER_PCS": "000000",
-"TOTAL_QNT_COUPLER_VALUE": 0,
-"TOTAL_QNT_BILLET_MT": 0,
-"TOTAL_QNT_CAR_MT": 0,
-"id": "6001501235378e0cd822b4ed"
-}
-],
-"groupDeliverdQuantity": [
-{
-"Group": "CAB",
-"DeliveredQuantity": 23058.115
-},
-{
-"Group": "MSD",
-"DeliveredQuantity": 921.49
-},
-{
-"Group": "BARDBX",
-"DeliveredQuantity": 11588.08
-},
-{
-"Group": "CCB",
-"DeliveredQuantity": 30306.61
-},
-{
-"Group": "BPC",
-"DeliveredQuantity": 60024.802
-},
-{
-"Group": "MSHSTM",
-"DeliveredQuantity": 13.689
-},
-{
-"Group": "COUNSP",
-"DeliveredQuantity": 533.111
-},
-{
-"Group": "COU",
-"DeliveredQuantity": 1267615
-},
-{
-"Group": " ",
-"DeliveredQuantity": 0
-}
-],
-"tonnageConsumedQuantity": [
-{
-"Group": "1020016099",
-"TonnageConsumed": 0.042
-},
-{
-"Group": "1020016574",
-"TonnageConsumed": 0.002
-},
-{
-"Group": "1020015778",
-"TonnageConsumed": 0.005
-},
-{
-"Group": "1020013888",
-"TonnageConsumed": 204.939
-},
-{
-"Group": "D102013888",
-"TonnageConsumed": 43.187
-}
-]
-}
+  "success": true,
+  "message": "",
+  "data": {
+    "contractDetails": [
+      {
+        "CONTRACT_ID": "1020013888",
+        "CUSTOMER_ID": "0001101481",
+        "VALID_FROM": "20171101",
+        "VALID_TO": "20221031",
+        "TOTAL_TONNAGE_MT": 102380,
+        "TOTAL_QNT_CAB_MT": 37274,
+        "TOTAL_QNT_MESH_MT": 0,
+        "TOTAL_QNT_BAR_MT": 11142,
+        "TOTAL_QNT_BPC_MT": 53964,
+        "TOTAL_QNT_PRECAGE_MT": 0,
+        "TOTAL_QNT_WR_MT": 0,
+        "TOTAL_QNT_PCSTRAND_MT": 0,
+        "TOTAL_QNT_PCSTRAND_VALUE": 0,
+        "TOTAL_QNT_COLDROLL_MT": 0,
+        "TOTAL_QNT_PRECUTWR_MT": 0,
+        "TOTAL_QNT_VALUE": 0,
+        "TOTAL_QNT_COUPLER_PCS": "990000",
+        "TOTAL_QNT_COUPLER_VALUE": 2897500,
+        "TOTAL_QNT_BILLET_MT": 0,
+        "TOTAL_QNT_CAR_MT": 0,
+        "id": "6001501135378e0cd82262e1"
+      },
+      {
+        "CONTRACT_ID": "1020016099",
+        "CUSTOMER_ID": "0001101481",
+        "VALID_FROM": "20191101",
+        "VALID_TO": "20200430",
+        "TOTAL_TONNAGE_MT": 2980,
+        "TOTAL_QNT_CAB_MT": 0,
+        "TOTAL_QNT_MESH_MT": 2980,
+        "TOTAL_QNT_BAR_MT": 0,
+        "TOTAL_QNT_BPC_MT": 0,
+        "TOTAL_QNT_PRECAGE_MT": 0,
+        "TOTAL_QNT_WR_MT": 0,
+        "TOTAL_QNT_PCSTRAND_MT": 0,
+        "TOTAL_QNT_PCSTRAND_VALUE": 0,
+        "TOTAL_QNT_COLDROLL_MT": 0,
+        "TOTAL_QNT_PRECUTWR_MT": 0,
+        "TOTAL_QNT_VALUE": 0,
+        "TOTAL_QNT_COUPLER_PCS": "000000",
+        "TOTAL_QNT_COUPLER_VALUE": 0,
+        "TOTAL_QNT_BILLET_MT": 0,
+        "TOTAL_QNT_CAR_MT": 0,
+        "id": "6001501135378e0cd8226b51"
+      },
+      {
+        "CONTRACT_ID": "1020016574",
+        "CUSTOMER_ID": "0001101481",
+        "VALID_FROM": "20200623",
+        "VALID_TO": "20201222",
+        "TOTAL_TONNAGE_MT": 590,
+        "TOTAL_QNT_CAB_MT": 0,
+        "TOTAL_QNT_MESH_MT": 590,
+        "TOTAL_QNT_BAR_MT": 0,
+        "TOTAL_QNT_BPC_MT": 0,
+        "TOTAL_QNT_PRECAGE_MT": 0,
+        "TOTAL_QNT_WR_MT": 0,
+        "TOTAL_QNT_PCSTRAND_MT": 0,
+        "TOTAL_QNT_PCSTRAND_VALUE": 0,
+        "TOTAL_QNT_COLDROLL_MT": 0,
+        "TOTAL_QNT_PRECUTWR_MT": 0,
+        "TOTAL_QNT_VALUE": 0,
+        "TOTAL_QNT_COUPLER_PCS": "000000",
+        "TOTAL_QNT_COUPLER_VALUE": 0,
+        "TOTAL_QNT_BILLET_MT": 0,
+        "TOTAL_QNT_CAR_MT": 0,
+        "id": "6001501135378e0cd822876a"
+      },
+      {
+        "CONTRACT_ID": "1020015778",
+        "CUSTOMER_ID": "0001101481",
+        "VALID_FROM": "20190801",
+        "VALID_TO": "20191031",
+        "TOTAL_TONNAGE_MT": 400,
+        "TOTAL_QNT_CAB_MT": 0,
+        "TOTAL_QNT_MESH_MT": 400,
+        "TOTAL_QNT_BAR_MT": 0,
+        "TOTAL_QNT_BPC_MT": 0,
+        "TOTAL_QNT_PRECAGE_MT": 0,
+        "TOTAL_QNT_WR_MT": 0,
+        "TOTAL_QNT_PCSTRAND_MT": 0,
+        "TOTAL_QNT_PCSTRAND_VALUE": 0,
+        "TOTAL_QNT_COLDROLL_MT": 0,
+        "TOTAL_QNT_PRECUTWR_MT": 0,
+        "TOTAL_QNT_VALUE": 0,
+        "TOTAL_QNT_COUPLER_PCS": "000000",
+        "TOTAL_QNT_COUPLER_VALUE": 0,
+        "TOTAL_QNT_BILLET_MT": 0,
+        "TOTAL_QNT_CAR_MT": 0,
+        "id": "6001501235378e0cd8228d6d"
+      },
+      {
+        "CONTRACT_ID": "D102013888",
+        "CUSTOMER_ID": "0001101481",
+        "VALID_FROM": "20171101",
+        "VALID_TO": "20211031",
+        "TOTAL_TONNAGE_MT": 56220,
+        "TOTAL_QNT_CAB_MT": 21620,
+        "TOTAL_QNT_MESH_MT": 0,
+        "TOTAL_QNT_BAR_MT": 29600,
+        "TOTAL_QNT_BPC_MT": 5000,
+        "TOTAL_QNT_PRECAGE_MT": 0,
+        "TOTAL_QNT_WR_MT": 0,
+        "TOTAL_QNT_PCSTRAND_MT": 0,
+        "TOTAL_QNT_PCSTRAND_VALUE": 0,
+        "TOTAL_QNT_COLDROLL_MT": 0,
+        "TOTAL_QNT_PRECUTWR_MT": 0,
+        "TOTAL_QNT_VALUE": 0,
+        "TOTAL_QNT_COUPLER_PCS": "950000",
+        "TOTAL_QNT_COUPLER_VALUE": 289750,
+        "TOTAL_QNT_BILLET_MT": 0,
+        "TOTAL_QNT_CAR_MT": 0,
+        "id": "6001501235378e0cd822a68d"
+      },
+      {
+        "CONTRACT_ID": "1020017003",
+        "CUSTOMER_ID": "0001101481",
+        "VALID_FROM": "20201223",
+        "VALID_TO": "20210623",
+        "TOTAL_TONNAGE_MT": 450,
+        "TOTAL_QNT_CAB_MT": 0,
+        "TOTAL_QNT_MESH_MT": 450,
+        "TOTAL_QNT_BAR_MT": 0,
+        "TOTAL_QNT_BPC_MT": 0,
+        "TOTAL_QNT_PRECAGE_MT": 0,
+        "TOTAL_QNT_WR_MT": 0,
+        "TOTAL_QNT_PCSTRAND_MT": 0,
+        "TOTAL_QNT_PCSTRAND_VALUE": 0,
+        "TOTAL_QNT_COLDROLL_MT": 0,
+        "TOTAL_QNT_PRECUTWR_MT": 0,
+        "TOTAL_QNT_VALUE": 0,
+        "TOTAL_QNT_COUPLER_PCS": "000000",
+        "TOTAL_QNT_COUPLER_VALUE": 0,
+        "TOTAL_QNT_BILLET_MT": 0,
+        "TOTAL_QNT_CAR_MT": 0,
+        "id": "6001501235378e0cd822b4ed"
+      }
+    ],
+    "groupDeliverdQuantity": [
+      {
+        "Group": "CAB",
+        "DeliveredQuantity": 23058.115
+      },
+      {
+        "Group": "MSD",
+        "DeliveredQuantity": 921.49
+      },
+      {
+        "Group": "BARDBX",
+        "DeliveredQuantity": 11588.08
+      },
+      {
+        "Group": "CCB",
+        "DeliveredQuantity": 30306.61
+      },
+      {
+        "Group": "BPC",
+        "DeliveredQuantity": 60024.802
+      },
+      {
+        "Group": "MSHSTM",
+        "DeliveredQuantity": 13.689
+      },
+      {
+        "Group": "COUNSP",
+        "DeliveredQuantity": 533.111
+      },
+      {
+        "Group": "COU",
+        "DeliveredQuantity": 1267615
+      },
+      {
+        "Group": " ",
+        "DeliveredQuantity": 0
+      }
+    ],
+    "tonnageConsumedQuantity": [
+      {
+        "Group": "1020016099",
+        "TonnageConsumed": 0.042
+      },
+      {
+        "Group": "1020016574",
+        "TonnageConsumed": 0.002
+      },
+      {
+        "Group": "1020015778",
+        "TonnageConsumed": 0.005
+      },
+      {
+        "Group": "1020013888",
+        "TonnageConsumed": 204.939
+      },
+      {
+        "Group": "D102013888",
+        "TonnageConsumed": 43.187
+      }
+    ]
+  }
 }
